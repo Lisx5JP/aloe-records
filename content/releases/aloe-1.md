@@ -6,10 +6,9 @@ tags:
   - zhuwenbo
   - feedback
 ---
-
 Website: https://bearblog.dev
 
-{{< bandcamp id="21991958" layout="large" >}}
+{{< bandcamp id="21991958" layout="medium" >}}
 
 There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.
 
