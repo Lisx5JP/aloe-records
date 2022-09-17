@@ -6,23 +6,44 @@ media_folder: "static/images/uploads" # Folder where user uploaded files should 
 public_folder: "/images/uploads"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "blog" # Used in the UI, ie.: "New Post"
-    folder: "content/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+  - name: "pages"
+    label: "pages"
+    files:
+      - name: "home"
+        label: "home"
+        file: "content/_index.md"
+        fields:
+          - {label: Name, name: name, widget: string}
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "contact"
+        label: "contact"
+        file: "content/contact.md"
+        fields:
+          - {label: Name, name: name, widget: string}
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "about"
+        label: "about"
+        file: "content/about.md"
+        fields:
+          - {label: Name, name: name, widget: string}
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "releases" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "releases" # Used in the UI, ie.: "New Post"
     folder: "content/releases" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Publish Date", name: "date", widget: "date" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+  - name: "blog"
+    label: "blog"
+    folder: "content/blog"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "date" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
