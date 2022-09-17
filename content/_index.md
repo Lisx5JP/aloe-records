@@ -1,25 +1,15 @@
-## Title here
+## About New Releases
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Aloe001&002
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+- - -
 
-We just published our first album [Aloe 1]({{< ref "/releases/aloe-1" >}})
+## About Aloe Records
 
----
+Beijing-based limited edition publishing label for mainly experimental music and improvised music.
 
-## Title here
+- - -
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+## About Aloe
 
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-## Title here
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+Aloe is a plant that grows in the subtropics and tropics. Its leaves are long and pointed, with spiny edges and a thick, juicy interior.
