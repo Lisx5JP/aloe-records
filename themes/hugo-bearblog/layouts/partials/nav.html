@@ -1,0 +1,13 @@
+<a href="{{ "/" | relURL }}">Home</a>
+
+{{ with .Site.GetPage "/blog" }}
+<a href="{{ "/blog" | relURL }}">Blog</a>
+{{ end }}
+
+{{ with .Site.GetPage "/releases" }}
+<a href="{{ "/releases" | relURL }}">Releases</a>
+{{ end }}
+
+{{ range .Site.Menus.main.ByName.Reverse }}
+<a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
