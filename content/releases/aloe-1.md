@@ -1,9 +1,11 @@
-+++
-title = "Aloe 1"
-date = "2020-01-03"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = ["zhuwenbo", "feedback",]
-+++
+---
+title: Aloe001-four lines and improvisation
+date: 2022-11-19T16:00:00.000Z
+description: Zhu Wenbo - Four Lines and Improvisation
+tags:
+  - zhuwenbo
+  - feedback
+---
 
 Website: https://bearblog.dev
 
