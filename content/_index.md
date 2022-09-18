@@ -1,6 +1,6 @@
 ## About New Releases
 
-Aloe001&002 will be released around November 20 this year.
+Aloe001&002 will be released around December 10 this year.
 
 - - -
 
