@@ -12,4 +12,4 @@ Beijing-based limited edition publishing label for mainly experimental music and
 
 ## About Aloe
 
-Aloe is a plant that grows in subtropics and tropics, with long and pointed leaves, spiny edges and thick, juicy interior. Aloe is kept in many Chinese homes (like mine) for ornamental and herbal medicine use.
+Aloe is a plant that grows in subtropics and tropics, with long-pointed leaves, spiny edges, and thick, juicy interior. Aloe is kept in many Chinese homes (like mine) for ornamental and herbal medicine use.
