@@ -4,8 +4,8 @@ menu: main
 ---
 # Aloe Records
 
-Aloe Records(芦荟唱片) Beijing-based limited edition publishing label. Focusing primarily on electro-acoustic improvisation, experimental composition, post-2000 improvised music, conceptual sound works, and more radical and obscure sound practices. 2022 started to be run by Sun Yizhou.
+Aloe Records(芦荟唱片) , a Beijing-based limited edition publishing label. Focusing primarily on electro-acoustic improvisation, experimental composition, post-2000 improvised music, conceptual sound works, and more radical and obscure sound practices. Run by Sun Yizhou since 2022.
 
 It is currently self-operated and its publications are not limited to any medium. And, it hopes to gradually build an international network for contemporary musicians and sound artists, conceptual artists, media artists and performance artists.
 
-Without the help of many friends, Aloe Records would not be where it is today, they make Aloe is not Alone: Li Yakun, Bian Xingchi, Zhang Cai, Zhu Wenbo, Yan Jun ...
+Without the help of many friends, Aloe Records would not be where it is today, they make Aloe not Alone: Li Yakun, Bian Xingchi, Zhang Cai, Zhu Wenbo, Yan Jun ...
