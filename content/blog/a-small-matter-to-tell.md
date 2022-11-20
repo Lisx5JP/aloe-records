@@ -21,13 +21,13 @@ It’s called aloe record.
 
 The official website/WeChat official account will be updated from time to time and some articles be tweeted or translated. All digital/physical albums will be available for listening and purchasing on Bandcamp. **Please find us on links below and subscribe：**
 
-Official Website: [aloerecords.com/](aloerecords.com/)
+Official Website: [aloerecords.com/](https://aloerecords.com)
 
-Bandcamp: [aloerecords.bandcamp.com/](aloerecords.bandcamp.com/)
+Bandcamp: [aloerecords.bandcamp.com/](https://aloerecords.bandcamp.com/)
 
-Instagram: [instagram.com/aloe_records/](instagram.com/aloe_records/)
+Instagram: [instagram.com/aloe_records/](https://instagram.com/aloe_records/)
 
-RSS: [www.aloerecords.com/index.xml](www.aloerecords.com/index.xml)
+RSS: [www.aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
 
 I wanted it to be a mini-label that is not too eye-catching nor expressive, however sharp and powerful. As it crossed my mind, I subconsciously touched the edge of an aloe vera on my balcony. I have plenty at home, my parents keep them. Ha! Might as well call it aloe! (a plant that grows in subtropics and tropics, with long-pointed leaves, spiny edges, and thick, juicy interior. Kept in many Chinese homes for ornamental and herbal medicine use.) 
 
@@ -73,13 +73,13 @@ Sun Yizhou
 
 微店: 请搜索芦荟唱片，或文末二维码。
 
-网站：[aloerecords.com/](aloerecords.com)
+网站：[aloerecords.com/](https://aloerecords.com)
 
-Bandcamp: [aloerecords.bandcamp.com/](*aloerecords.bandcamp.com/*)(需安全上网)
+Bandcamp: [aloerecords.bandcamp.com/](https://aloerecords.bandcamp.com/)(需安全上网)
 
-Instagram: [www.instagram.com/aloe_records/](*www.instagram.com/aloe_records/*)(需安全上网)
+Instagram: [instagram.com/aloe_records/](https://instagram.com/aloe_records/)(需安全上网)
 
-​RSS: [www.aloerecords.com/index.xml](*www.aloerecords.com/index.xml*)
+​RSS: [www.aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
 
 我希望它是一个不太起眼，也不太表现，但尖锐有力量的迷你厂牌。当我想到这里，下意识地摸了摸阳台上的芦荟（我家有很多，我父母养的）。哈！不如就叫芦荟吧。（解释下，是一种生长在亚热带和热带地区的植物，叶子尖长，边缘多刺，内部厚实多汁，用于观赏和草药用途；部分品种也可以当作饮料）。
 
