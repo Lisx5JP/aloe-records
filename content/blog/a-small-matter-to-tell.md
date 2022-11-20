@@ -39,9 +39,13 @@ The first publishings will be Alo(n)e series, aloe record’s solo project rel
 
 **Alone-001 & 002 will be out via our Bandcamp on 10th December 2022.**
 
-![001#Four Lines and Improvisation is a new album by Beijing’s musician and label organizer Zhu Wenbo, measuring in 32’41’’ length. With new notes written for his ‘compositions based on improvisations’, he recorded 'Four Lines' in August 2022 on which 'Improvisation' is based on. Both tracks showcase a distinctive loose nature to the sound.](/images/uploads/zhu1-a.jpg)
+![](/images/uploads/zhu1-a.jpg)
 
-![002#It Works is a new cassette release by Beijing-based musician/poet Yan Jun. Consists of one live improvisation and two takes of performance recordings composed by Ryoko Akama. The album has a simple block structure, great dynamics with great noise, and perhaps a little mystery to it.](/images/uploads/yan2-a.jpg)
+001#Four Lines and Improvisation is a new album by Beijing’s musician and label organizer Zhu Wenbo, measuring in 32’41’’ length. With new notes written for his ‘compositions based on improvisations’, he recorded 'Four Lines' in August 2022 on which 'Improvisation' is based on. Both tracks showcase a distinctive loose nature to the sound.
+
+![](/images/uploads/yan2-a.jpg)
+
+002#It Works is a new cassette release by Beijing-based musician/poet Yan Jun. Consists of one live improvisation and two takes of performance recordings composed by Ryoko Akama. The album has a simple block structure, great dynamics with great noise, and perhaps a little mystery to it.
 
 Four Lines and Improvisation&It Works will be available for pre-order on Bandcamp on December 2nd. Officially released on December 10th.
 
