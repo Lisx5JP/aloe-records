@@ -25,7 +25,11 @@
 
   a {
     color: #3273dc;
-    /*color: #ff5e6c;*/
+    text-decoration-line: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 
   .title {
@@ -34,8 +38,12 @@
   }
 
   .title h2 {
-    display: flex;
+    display: inline-flex;
     align-items: center;
+  }
+
+  .title:hover {
+    text-decoration-line: none;
   }
 
   .title span {
@@ -101,10 +109,7 @@
   footer {
     padding: 25px;
     text-align: center;
-  }
-
-  footer a:not(:last-child) {
-    margin-right: 8px;
+    font-size: 14px;
   }
 
   .helptext {
