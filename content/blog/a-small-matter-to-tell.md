@@ -13,7 +13,7 @@ Shit happened in year 2022, quite a lot, Beijing in particular. Each morning you
 
 I ask myself, where will I and my friends be able to perform next? If none, what can I do instead? I started making recording works, solo projects and collaborations. During the period, probably one April morning, somewhere between those walls as I was locked at home, I thought, well, then why not start a new label from scratch! It is something I been thinking for long but never really made up the mind. Because it would mean cutting a part of my life to it, consuming a lot of time, money, making contact with people, like getting samples from manufacturers and all sorts of chores; More crucially it is about why it exists and what to do with it in long term… But out of practical urgency, It’s time.
 
-With help from my friend Li Yakun as graphic designer, Bian Xingchi built the website and Zhang Cai with translations… slowly preparing one after another, adjusting little by little, a daily habit it has become, there’s one small announcement I would like to make now.
+With help from my friend Li Yakun as graphic designer, Bian Xingchi built the website and Zhang Cai with translations… slowly preparing one after another, adjusting little by little, a daily habit it has become, there’s one small announcement I would like to make.
 
 ![](/images/uploads/厂牌-logo.png)
 
