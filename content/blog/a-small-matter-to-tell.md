@@ -71,15 +71,15 @@ Sun Yizhou
 
 它叫芦荟唱片。公众号/网站会时不时的更新，也可能会推送或翻译有关系的一些文章。所有的线上/数字专辑会放在Bandcamp上面去聆听和售卖，有些朋友可能打不开链接，所以得麻烦大家备有安全上网的能力，或者可以买张磁带回家听多好。**以下是找到我们的方式，欢迎大家关注。**
 
-*微店: 请搜索芦荟唱片，或文末二维码。*
+微店: 请搜索芦荟唱片，或文末二维码。
 
-*网站：www.aloerecords.com/*
+网站：[www.aloerecords.com/](*www.aloerecords.com/*)
 
-*Bandcamp: aloerecords.bandcamp.com/(需安全上网)*
+Bandcamp: [aloerecords.bandcamp.com/](*aloerecords.bandcamp.com/*)(需安全上网)
 
-*Instagram: www.instagram.com/aloe_records/(需安全上网)*
+Instagram: [www.instagram.com/aloe_records/](*www.instagram.com/aloe_records/*)(需安全上网)
 
-*​RSS: www.aloerecords.com/index.xml*
+​RSS: [www.aloerecords.com/index.xml](*www.aloerecords.com/index.xml*)
 
 我希望它是一个不太起眼，也不太表现，但尖锐有力量的迷你厂牌。当我想到这里，下意识地摸了摸阳台上的芦荟（我家有很多，我父母养的）。哈！不如就叫芦荟吧。（解释下，是一种生长在亚热带和热带地区的植物，叶子尖长，边缘多刺，内部厚实多汁，用于观赏和草药用途；部分品种也可以当作饮料）。
 
