@@ -25,7 +25,7 @@ Official Website: [aloerecords.com/](aloerecords.com/)
 
 Bandcamp: [aloerecords.bandcamp.com/](aloerecords.bandcamp.com/)
 
-Instagram: [www.instagram.com/aloe_records/](www.instagram.com/aloe_records/)
+Instagram: [instagram.com/aloe_records/](instagram.com/aloe_records/)
 
 RSS: [www.aloerecords.com/index.xml](www.aloerecords.com/index.xml)
 
