@@ -5,7 +5,7 @@ description: |-
   Author: Sun Yizhou 
   English Translation: Zhang Cai
 
-  PS: Chinese version available at the end of the article
+  PS: Chinese version available at the end of the article.
 ---
 I shall start from the recent past.
 
