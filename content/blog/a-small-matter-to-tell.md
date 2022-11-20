@@ -1,9 +1,9 @@
 ---
 title: A small matter to tell
 date: 2022-11-20T04:40:55.937Z
-description: Talk about the new label Aloe Record.
+description: Talking about the new label Aloe Record.
 ---
-`Author: Sun Yizhou `
+`Author: Sun Yizhou`
 
 `English Translation: Zhang Cai`
 
@@ -11,7 +11,7 @@ I shall start from the recent past.
 
 Shit happened in year 2022, quite a lot, Beijing in particular. Each morning you and I wake up petrified, bumped into some fucked-up incident through social media, insulted by another sealed matter that is unable-to-view. Incomprehensible at first, we erupted into fury, ended up with complaint. Among all matters, what’s closely related to this article is the current situation of Chinese musicians, with fewer gigs than in previous years and patches and patches of cancelled touring around the country. Music venues are facing closure or switching their operations to find alternative ways to stay afloat.
 
-I ask myself, where will I and my friends be able to perform next? If none, what can I do instead? I started making recording works, solo projects and collaborations. During the period, probably one April morning, somewhere between those walls as I was locked at home, I thought, well, then why not start a new label from scratch! It is something I been thinking for long but never really made up the mind. Because it would mean cutting a part of my life to it, consuming a lot of time, money, making contact with people, like getting samples from manufacturers and all sorts of chores; More crucially it is about why it exists and what to do with it in long term… But out of practical urgency, It’s time.
+I ask myself, where will I and my friends be able to perform next? If none, what can I do instead? I started making recording works, solo projects and collaborations. During the period, probably one April morning somewhere between those walls as I was locked at home, I thought, well, then why not start a new label from scratch! It is something I been thinking for long but never really made up the mind. Because it would mean cutting a part of my life to it, consuming a lot of time, money, making contact with people, like getting samples from manufacturers and all sorts of chores; More crucially it is about why it exists and what to do with it in long term… But out of practical urgency, It’s time.
 
 With help from my friend Li Yakun as graphic designer, Bian Xingchi built the website and Zhang Cai with translations… slowly preparing one after another, adjusting little by little, a daily habit it has become, there’s one small announcement I would like to make.
 
@@ -55,8 +55,6 @@ Sun Yizhou
 
 9th Nov 2022
 
-
-
 \-﻿--------------------------------------------------------
 
 **一件小事，现在要告诉大家。**
@@ -93,8 +91,6 @@ Instagram: [www.instagram.com/aloe_records/](*www.instagram.com/aloe_records/*)
 
 预告一下，**Aloe-001&002将于今年12月10日首发。**
 
-
-
 ![](/images/uploads/zhu1-a.jpg)
 
 Aloe-001是北京的乐手、组织者**朱文博**的《**四句与即兴**》，该专辑收录了今年8月份全新创作的两首曲目。A面为”四句”，B面为”即兴”。A面”四句”为朱文博创作的附有音符的作曲，B面则在此基础上即兴。两首曲目都很自然地展现了一种独特的低保真性质。
@@ -104,8 +100,6 @@ Aloe-001是北京的乐手、组织者**朱文博**的《**四句与即兴**》�
 Aloe-002是北京的乐手、诗人**颜峻**的最新专辑《**管用**》，是一部概念性的声音作品，包含一首现场即兴创作与两首演绎Ryoko Akama在密集音乐会66的作曲。它有着简单的块状结构，极大的动态与极大的噪音，也许它还有一点点小神秘。
 
 12月2日会在Bandcamp发布预售，12月10日正式发行。敬请期待，谢谢。
-
-
 
 孙一舟
 
