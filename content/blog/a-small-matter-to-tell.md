@@ -1,12 +1,14 @@
 ---
 title: A small matter to tell
 date: 2022-11-20T04:40:55.937Z
-description: |-
-  Author: Sun Yizhou 
-  English Translation: Zhang Cai
-
-  PS: Chinese version available at the end of the article.
+description: aloe record
 ---
+*`Author: Sun Yizhou`* 
+
+*`English Translation: Zhang Cai`*
+
+*`PS: Chinese version available at the end of the article.`*
+
 I shall start from the recent past.
 
 Shit happened in year 2022, quite a lot, Beijing in particular. Each morning you and I wake up petrified, bumped into some fucked-up incident through social media, insulted by another sealed matter that is unable-to-view. Incomprehensible at first, we erupted into fury, ended up with complaint. Among all matters, what’s closely related to this article is the current situation of Chinese musicians, with fewer gigs than in previous years and patches and patches of cancelled touring around the country. Music venues are facing closure or switching their operations to find alternative ways to stay afloat.
