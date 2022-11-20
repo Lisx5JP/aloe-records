@@ -27,7 +27,7 @@ Bandcamp: [aloerecords.bandcamp.com/](https://aloerecords.bandcamp.com/)
 
 Instagram: [instagram.com/aloe_records/](https://instagram.com/aloe_records/)
 
-RSS: [www.aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
+RSS: [aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
 
 I wanted it to be a mini-label that is not too eye-catching nor expressive, however sharp and powerful. As it crossed my mind, I subconsciously touched the edge of an aloe vera on my balcony. I have plenty at home, my parents keep them. Ha! Might as well call it aloe! (a plant that grows in subtropics and tropics, with long-pointed leaves, spiny edges, and thick, juicy interior. Kept in many Chinese homes for ornamental and herbal medicine use.) 
 
@@ -79,7 +79,7 @@ Bandcamp: [aloerecords.bandcamp.com/](https://aloerecords.bandcamp.com/)(需安
 
 Instagram: [instagram.com/aloe_records/](https://instagram.com/aloe_records/)(需安全上网)
 
-​RSS: [www.aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
+​RSS: [aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
 
 我希望它是一个不太起眼，也不太表现，但尖锐有力量的迷你厂牌。当我想到这里，下意识地摸了摸阳台上的芦荟（我家有很多，我父母养的）。哈！不如就叫芦荟吧。（解释下，是一种生长在亚热带和热带地区的植物，叶子尖长，边缘多刺，内部厚实多汁，用于观赏和草药用途；部分品种也可以当作饮料）。
 
