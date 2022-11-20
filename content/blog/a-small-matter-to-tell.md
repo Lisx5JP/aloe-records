@@ -1,13 +1,11 @@
 ---
 title: A small matter to tell
 date: 2022-11-20T04:40:55.937Z
-description: aloe record
+description: Talk about the new label Aloe Record.
 ---
 `Author: Sun Yizhou `
 
 `English Translation: Zhang Cai`
-
-`PS: Chinese version available at the end of the article.`
 
 I shall start from the recent past.
 
@@ -93,7 +91,7 @@ Instagram: [www.instagram.com/aloe_records/](*www.instagram.com/aloe_records/*)
 
 预告一下，**Aloe-001&002将于今年12月10日首发。**
 
-Aloe-001是北京的乐手、组织者**朱文博**的**《四句与即兴》**，该专辑收录了今年8月份全新创作的两首曲目。A面为”四句”，B面为”即兴”。A面”四句”为朱文博创作的附有音符的作曲，B面则在此基础上即兴。两首曲目都很自然地展现了一种独特的低保真性质。
+Aloe-001是北京的乐手、组织者**朱文博**的《**四句与即兴**》，该专辑收录了今年8月份全新创作的两首曲目。A面为”四句”，B面为”即兴”。A面”四句”为朱文博创作的附有音符的作曲，B面则在此基础上即兴。两首曲目都很自然地展现了一种独特的低保真性质。
 
 Aloe-002是北京的乐手、诗人**颜峻**的最新专辑《**管用**》，是一部概念性的声音作品，包含一首现场即兴创作与两首演绎Ryoko Akama在密集音乐会66的作曲。它有着简单的块状结构，极大的动态与极大的噪音，也许它还有一点点小神秘。
 
