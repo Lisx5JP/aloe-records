@@ -15,7 +15,7 @@ I ask myself, where will I and my friends be able to perform next? If none, what
 
 With help from my friend Li Yakun as graphic designer, Bian Xingchi built the website and Zhang Cai with translations… slowly preparing one after another, adjusting little by little, a daily habit it has become, there’s one small announcement I would like to make.
 
-![](/images/uploads/厂牌-logo.png)
+![](/images/uploads/aloe-logo.svg)
 
 It’s called aloe record.
 
@@ -29,7 +29,7 @@ Instagram: [instagram.com/aloe_records/](https://instagram.com/aloe_records/)
 
 RSS: [aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
 
-I wanted it to be a mini-label that is not too eye-catching nor expressive, however sharp and powerful. As it crossed my mind, I subconsciously touched the edge of an aloe vera on my balcony. I have plenty at home, my parents keep them. Ha! Might as well call it aloe! (a plant that grows in subtropics and tropics, with long-pointed leaves, spiny edges, and thick, juicy interior. Kept in many Chinese homes for ornamental and herbal medicine use.) 
+I wanted it to be a mini-label that is not too eye-catching nor expressive, however sharp and powerful. As it crossed my mind, I subconsciously touched the edge of an aloe vera on my balcony. I have plenty at home, my parents keep them. Ha! Might as well call it aloe! (a plant that grows in subtropics and tropics, with long-pointed leaves, spiny edges, and thick, juicy interior. Kept in many Chinese homes for ornamental and herbal medicine use.)
 
 And the music, the music may not sound very music-ic. Let go of the term. However, if we must apply a certain coherent to it, may have something to do with the underground Beijing scene that influenced me, since 2018 pre-covid, the very moment I got involved with this kind of music, as audience, and as participance. For me, it pulled me back to the time I heard Song of the Youths (Gesang der Jünglinge) for the first time, but in person. After all, the independent label run by the musician is to some extent unavoidably an autobiography of the individual, his condensed passion for those he loves. And of course, its’ chosen genealogy. Which can partially traced back to The New York School, Fluxes, noise music, electronic acoustic… But there were a larger part came from the later improvised music from 2000 onwards (improvised music after saying goodbye to rock and jazz), EAI, Onkyo, Echtzeitmusik, eclecticism, compositions based on improvisation, as well as conceptual music or sound works, unclassifiable non-music, etc. Clarification as such has nothing to do with nostalgia, an aloe would keep growing. And I would prefer it to have the reach to withstand more radical or obscure sound practices, to pick its way out of the chaos, and locate itself to the consistence that comes from deep within.
 
@@ -69,7 +69,7 @@ Sun Yizhou
 
 它叫芦荟唱片。公众号/网站会时不时的更新，也可能会推送或翻译有关系的一些文章。所有的线上/数字专辑会放在Bandcamp上面去聆听和售卖，有些朋友可能打不开链接，所以得麻烦大家备有安全上网的能力，或者可以买张磁带回家听多好。**以下是找到我们的方式，欢迎大家关注。**
 
-![](/images/uploads/厂牌-logo.png)
+![](/images/uploads/aloe-logo.svg)
 
 微店: 请搜索芦荟唱片，或文末二维码。
 
