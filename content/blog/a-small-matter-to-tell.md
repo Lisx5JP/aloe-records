@@ -21,7 +21,7 @@ It’s called aloe record.
 
 The official website/WeChat official account will be updated from time to time and some articles be tweeted or translated. All digital/physical albums will be available for listening and purchasing on Bandcamp. **Please find us on links below and subscribe：**
 
-Official Website: [aloerecords.com/](aloerecords.com)
+Official Website: [aloerecords.com/](aloerecords.com/)
 
 Bandcamp: [aloerecords.bandcamp.com/](aloerecords.bandcamp.com/)
 
