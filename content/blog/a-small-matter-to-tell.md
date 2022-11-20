@@ -1,7 +1,11 @@
 ---
 title: A small matter to tell
 date: 2022-11-20T04:40:55.937Z
-description: I shall start from the recent past.
+description: |-
+  Author: Sun Yizhou 
+  English Translation: Zhang Cai
+
+  PS: Chinese version available at the end of the article
 ---
 I shall start from the recent past.
 
