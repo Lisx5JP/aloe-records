@@ -21,11 +21,11 @@ It’s called aloe record.
 
 The official website/WeChat official account will be updated from time to time and some articles be tweeted or translated. All digital/physical albums will be available for listening and purchasing on Bandcamp. **Please find us on links below and subscribe：**
 
-Official Website: [aloerecords.com/](https://aloerecords.com)
+Official Website: [aloerecords.com](https://aloerecords.com)
 
-Bandcamp: [aloerecords.bandcamp.com/](https://aloerecords.bandcamp.com/)
+Bandcamp: [aloerecords.bandcamp.com](https://aloerecords.bandcamp.com)
 
-Instagram: [instagram.com/aloe_records/](https://instagram.com/aloe_records/)
+Instagram: [instagram.com/aloe_records](https://instagram.com/aloe_records)
 
 RSS: [aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
 
@@ -73,11 +73,11 @@ Sun Yizhou
 
 微店: 请搜索芦荟唱片，或文末二维码。
 
-网站：[aloerecords.com/](https://aloerecords.com)
+网站：[aloerecords.com](https://aloerecords.com)
 
-Bandcamp: [aloerecords.bandcamp.com/](https://aloerecords.bandcamp.com/)(需安全上网)
+Bandcamp: [aloerecords.bandcamp.com](https://aloerecords.bandcamp.com)(需安全上网)
 
-Instagram: [instagram.com/aloe_records/](https://instagram.com/aloe_records/)(需安全上网)
+Instagram: [instagram.com/aloe_records](https://instagram.com/aloe_records)(需安全上网)
 
 ​RSS: [aloerecords.com/index.xml](https://www.aloerecords.com/index.xml)
 
