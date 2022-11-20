@@ -41,7 +41,7 @@ The first publishings will be Alo(n)e series, aloe record’s solo project rel
 
 ![](/images/uploads/zhu1-a.jpg)
 
-001#**Four Lines and Improvisation** is a new album by Beijing’s musician and label organizer **Zhu Wenbo**, measuring in 32’41’’ length. With new notes written for his ‘compositions based on improvisations’, he recorded 'Four Lines' in August 2022 on which 'Improvisation' is based on. Both tracks showcase a distinctive lo-fi nature to the sound.
+001#**Four Lines and Improvisation** is a new album by Beijing’s musician and label organizer **Zhu Wenbo**, measuring 32’41’’ in total length. With new notes written for his ‘compositions based on improvisations’, he recorded 'Four Lines' in August 2022 on which 'Improvisation' is based on. Both tracks showcase a distinctive lo-fi nature to the sound.
 
 ![](/images/uploads/yan2-a.jpg)
 
