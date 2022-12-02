@@ -15,6 +15,11 @@ a friend of mine said she always wants to hit the wall with her head when my mus
 
 ![](/images/uploads/y1.jpg)
 
+• 250g front and back printing paper. \
+• professional cassette tape & bandcamp download code.\
+• handwritten numbering, hand plastic sealing. \
+• Only 50 copies! (Only 20 copies available at bandcamp) 
+
 Releases December 10, 2022 
 
 Track 1: live at fruityspace, september 14, 2020 
@@ -24,10 +29,6 @@ Track 2/3: recorded at studio h, june 5, 2020 
 Mastered by Taku Unami 
 
 Released by Aloe Records 2022 (Alone-002) 
-
-[www.aloerecords.com](http://www.aloerecords.com/) 
-
-
 
 \----------- 
 
