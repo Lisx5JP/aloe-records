@@ -32,8 +32,6 @@ Released by Aloe Records 2022 (Alone-001) 
 
 \---------- 
 
-![](/images/uploads/zhu-wenbo.jpg)
-
 Zhu Wenbo (朱文博) is involved in many different music projects. He uses clarinet, guitar, mandolin, microphone, speaker, tape, percussion and more, doing compositions, improvisations, songwriting, events and publications focused on ‘music unlike music’. He runs the cassette label Zoomin’ Night. In 2019 he played in Ftarri Festival in Tokyo. 
 
 [zhuwenbo.bandcamp.com](https://zhuwenbo.bandcamp.com/) 
