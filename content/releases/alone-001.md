@@ -14,6 +14,11 @@ The album contains two tracks: ”Four Lines”(A-side) and “Improvisation”(
 
 ![](/images/uploads/swz-3.jpg)
 
+• 250g front and back printing paper. \
+• professional cassette tape & bandcamp download code.\
+• handwritten numbering, hand plastic sealing. \
+• Only 50 copies! (Only 20 copies available at bandcamp) 
+
 Releases December 10, 2022 
 
 Track A: sine tones generator, transducer microphone, speaker microphone and voice 
