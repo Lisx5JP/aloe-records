@@ -2,6 +2,10 @@
 
 Alone001&002 ow available for pre-order!
 
+https://aloerecords.com/releases/alone-001/
+
+https://aloerecords.com/releases/alone-002/
+
 - - -
 
 ## About Aloe Records
