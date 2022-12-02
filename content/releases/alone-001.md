@@ -4,7 +4,7 @@ date: 2022-12-02T04:15:39.073Z
 description: When listening to his compositions and improvisations, the two seem
   to be inherent in each other and difficult to distinguish.
 ---
-<iframe style="border: 0; width: 400px; height: 572px;" src="https://bandcamp.com/EmbeddedPlayer/album=1358578694/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/tracklist=true/tracks=3460437615,1129616953/esig=7ff43f413e82c05f6a320980f84525c3/" seamless><a href="https://aloerecords.bandcamp.com/album/four-lines-and-improvisation">Four Lines and Improvisation by Zhu Wenbo</a></iframe>
+<iframe style="border: 0; width: 400px; height: 572px;" <iframe style="border: 0; width: 400px; height: 572px;" src="https://bandcamp.com/EmbeddedPlayer/album=1358578694/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/tracklist=true/tracks=3460437615,1129616953/esig=7ff43f413e82c05f6a320980f84525c3/" seamless><a href="https://aloerecords.bandcamp.com/album/four-lines-and-improvisation">Four Lines and Improvisation by Zhu Wenbo</a></iframe>
 
 Alone Series 001 is absolutely delighted to release a new album by Beijing, China-based musician Zhu Wenbo, entitled "Four Lines and Improvisation", recorded in August 2022. Zhu Wenbo is a multi-instrumentalist and composer who is dedicated to "music that doesn't sound like music". He also runs the label Zoomin’ Night. 
 
