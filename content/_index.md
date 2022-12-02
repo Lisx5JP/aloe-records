@@ -1,6 +1,6 @@
 ## About New Releases
 
-Aloe001&002 will be released around December 10 this year.
+Alone001&002 ow available for pre-order!
 
 - - -
 
