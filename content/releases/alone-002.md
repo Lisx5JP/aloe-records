@@ -5,7 +5,7 @@ description: "\"a friend of mine said she always wants to hit the wall with her
   head when my music is in the ears. i think that's fantastic. hit, my friend,
   hit it harder!\""
 ---
-![](/images/uploads/yan2-a.jpg)
+<iframe style="border: 0; width: 400px; height: 605px;" src="https://bandcamp.com/EmbeddedPlayer/album=3608642674/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/tracklist=true/tracks=3157057637,2778415779,2466366080/esig=8fa32a941fb0808f9d43dc7c5621d683/" seamless><a href="https://aloerecords.bandcamp.com/album/it-works">it works by Yan Jun</a></iframe>
 
 Simple block structures, great dynamics with great noise, and perhaps a little mystery to it. Alone002 new cassette release “it works” is a conceptual collection of works by Beijing, China based musician/poet Yan Jun, from one live improvisation to two performance recordings composed by Ryoko Akama. 
 
