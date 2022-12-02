@@ -4,6 +4,8 @@ date: 2022-12-02T04:15:39.073Z
 description: When listening to his compositions and improvisations, the two seem
   to be inherent in each other and difficult to distinguish.
 ---
+![](/images/uploads/zhu1-a.jpg)
+
 {{< bandcamp id="1358578694" layout="medium" >}} 
 
 Alone Series 001 is absolutely delighted to release a new album by Beijing, China-based musician Zhu Wenbo, entitled "Four Lines and Improvisation", recorded in August 2022. Zhu Wenbo is a multi-instrumentalist and composer who is dedicated to "music that doesn't sound like music". He also runs the label Zoomin’ Night. 
