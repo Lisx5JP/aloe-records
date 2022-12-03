@@ -2,11 +2,11 @@
 
 ## 登录后台
 
-打开网址 https://aloerecords.com/admin/ 后输入邮箱密码即可编辑。如果忘了邮箱密码或者创建新的用户，可以联系星驰。
+打开网址 https://aloerecords.com/admin/ 后输入邮箱密码即可编辑。如果忘了邮箱密码或者需要创建新的用户，可以联系星驰。
 
 ## 新建文章
 
-首次创建文章时的 `title` 需要是英文的，因为第一次创建文章时同时会生成文章的 URL，比如 https://aloerecords.com/blog/a-small-matter-to-tell/ 这篇，其中的 `a-small-matter-to-tell` 就是通过首次提交的 `title` —— **A small matter to tell you about** 生成的。
+首次创建文章时的 `title` 需要是英文的，因为第一次创建文章时同时会生成文章的 URL，比如 https://aloerecords.com/blog/a-small-matter-to-tell/ 这篇，其中的 `a-small-matter-to-tell` 就是通过首次提交的 `title` —— **A small matter to tell** 生成的。
 
 生成之后，就可以自由修改 `title` 了，比如改成中文的。这个有点反直觉，但囿于编辑后台的代码逻辑，目前只能这样。
 
