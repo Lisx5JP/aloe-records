@@ -1,6 +1,6 @@
 ## About New Releases
 
-Alone001&002 now available for pre-order!
+Alone001&002 out now!
 
 https://aloerecords.com/releases/alone-001/
 
