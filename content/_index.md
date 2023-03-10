@@ -1,10 +1,10 @@
 ## About New Releases
 
-Alone001&002 out now!
+Aloe-001 Aloe-002 coming soon...
 
-https://aloerecords.com/releases/alone-001/
+Soviet Pop - ? (Aloe-001)
 
-https://aloerecords.com/releases/alone-002/
+Luke Martin / Noah Ophoven-Baldwin - apertur (Aloe-002)
 
 - - -
 
