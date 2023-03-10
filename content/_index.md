@@ -2,7 +2,7 @@
 
 Aloe-001 Aloe-002 coming soon...
 
-Soviet Pop - ? (Aloe-001)
+Soviet Pop - Untitled album (Aloe-001)
 
 Luke Martin / Noah Ophoven-Baldwin - apertur (Aloe-002)
 
