@@ -2,9 +2,9 @@
 
 **Aloe-001 Aloe-002 will be released for pre-order on April 7**
 
-Soviet Pop - *two small works: continuous and discrete* (Aloe-001)
+Soviet Pop - two small works: continuous and discrete (Aloe-001)
 
-Luke Martin / Noah Ophoven-Baldwin - *apertur* (Aloe-002)
+Luke Martin / Noah Ophoven-Baldwin - aperture (Aloe-002)
 
 - - -
 
