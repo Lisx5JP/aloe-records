@@ -1,6 +1,7 @@
 ---
 title: "Alone-002: Yan Jun - it works"
 date: 2022-12-02T04:28:24.615Z
+series: "Alone"
 description: "\"a friend of mine said she always wants to hit the wall with her
   head when my music is in the ears. i think that's fantastic. hit, my friend,
   hit it harder!\""
