@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-12-02T04:28:24+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>/releases/alone-002/</loc>
+    <lastmod>2022-12-02T04:28:24+00:00</lastmod>
+  </url><url>
+    <loc>/releases/</loc>
+    <lastmod>2022-12-02T04:28:24+00:00</lastmod>
+  </url><url>
+    <loc>/releases/alone-001/</loc>
+    <lastmod>2022-12-02T04:15:39+00:00</lastmod>
+  </url><url>
+    <loc>/blog/a-small-matter-to-tell/</loc>
+    <lastmod>2022-11-20T04:40:55+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2022-11-20T04:40:55+00:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/contact/</loc>
+  </url>
+</urlset>
