@@ -35,11 +35,18 @@ Noah Ophoven-Baldwin: www.musicallaround.us\
 "text for \
 All the rooms of light \
 \
-A window in my bedroom sits facing the street and, with a nice breeze, it sings with the birds. \
-I’ve considered looking into it, measuring the angle, experimenting with the window being more open or closed, thinking about the wind (?) to figure out why exactly it’s song is so good, so practiced, but I haven’t. I haven’t and I’m sure I never will. The birds don’t mind. \
-The window can do whatever it wants. \
+A window in my bedroom sits facing the street and, with a nice breeze, it sings with the birds. 
+
+\
+I’ve considered looking into it, measuring the angle, experimenting with the window being more open or closed, thinking about the wind (?) to figure out why exactly it’s song is so good, so practiced, but I haven’t. I haven’t and I’m sure I never will. The birds don’t mind. 
+
+\
+The window can do whatever it wants. 
+
+\
 I think we have similar interests, musically. It usually sings up there around the 8th partial, the supermajor second, there are so many other tones nearby you don’t need to do much to make some nice sounds. \
-No need to do much else but give it a nice breath or, on a string, a little wiggle of your finger. The breath being the wind comes and goes as it will which is exactly how I’d like it to and that’s what the window does. And for now it sits there near where I lay my head and yours too and I don’t know why it is but it’s just right. The wind sliced sings into our room filled with our life. I close my eyes and wait to hear it." \
-- Noah  [](<>)
+No need to do much else but give it a nice breath or, on a string, a little wiggle of your finger. The breath being the wind comes and goes as it will which is exactly how I’d like it to and that’s what the window does. And for now it sits there near where I lay my head and yours too and I don’t know why it is but it’s just right. The wind sliced sings into our room filled with our life. I close my eyes and wait to hear it." 
+
+\-Noah  [](<>)
 
 releases May 5, 2023
