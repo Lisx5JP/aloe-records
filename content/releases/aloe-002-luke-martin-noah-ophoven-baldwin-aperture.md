@@ -44,7 +44,9 @@ I’ve considered looking into it, measuring the angle, experimenting with the w
 The window can do whatever it wants. 
 
 \
-I think we have similar interests, musically. It usually sings up there around the 8th partial, the supermajor second, there are so many other tones nearby you don’t need to do much to make some nice sounds. \
+I think we have similar interests, musically. It usually sings up there around the 8th partial, the supermajor second, there are so many other tones nearby you don’t need to do much to make some nice sounds. 
+
+\
 No need to do much else but give it a nice breath or, on a string, a little wiggle of your finger. The breath being the wind comes and goes as it will which is exactly how I’d like it to and that’s what the window does. And for now it sits there near where I lay my head and yours too and I don’t know why it is but it’s just right. The wind sliced sings into our room filled with our life. I close my eyes and wait to hear it." 
 
 \-Noah  [](<>)
