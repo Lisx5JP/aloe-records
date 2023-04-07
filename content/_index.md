@@ -1,10 +1,14 @@
 ## About New Releases
 
-**Aloe-001 Aloe-002 will be released for pre-order on April 7**
+**Aloe-001 Aloe-002 will be released for pre-order now!** 
 
 Soviet Pop - two small works: continuous and discrete (Aloe-001)
 
+aloerecords.bandcamp.com/album/two-small-works-continuous-and-discrete
+
 Luke Martin / Noah Ophoven-Baldwin - aperture (Aloe-002)
+
+aloerecords.bandcamp.com/album/aperture
 
 - - -
 
