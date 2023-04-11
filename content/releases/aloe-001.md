@@ -1,6 +1,6 @@
 ---
 title: "Aloe-001: Soviet Pop - two small works: continuous and discrete"
-date: 2023-04-07T15:39:54.088Z
+date: 2023-04-08T15:39:54.088Z
 series: Aloe
 description: Aloe Series (Aloe Record's new series for duos) is pleased to
   present a new album by Soviet Pop, an electronic-acoustic duo consisting of Li
