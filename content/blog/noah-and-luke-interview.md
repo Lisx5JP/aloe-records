@@ -1,5 +1,5 @@
 ---
-title: Noah and Luke Interview
+title: "Noah and Luke Interview: a cold dream in Minneapolis"
 slug: "2098"
 date: 2023-05-05T07:11:37.210Z
 tags:
