@@ -6,18 +6,11 @@ tags:
   - Interview
 description: I think this kind of gets at what’s going on when we play together.
 ---
-
-
 `Date: mid-March 2023`
-
-``
 
 `Question: Sun Yizhou`
 
-`
-Answer: LUKE (Luke Martin) NOAH (Noah Ophoven-Baldwin)`
-
-
+`Answer: LUKE (Luke Martin) NOAH (Noah Ophoven-Baldwin)`
 
 **1. Please tell us a little bit, introduce yourself. How old are you? What are you working on these days? Are you currently working as musicians/composers or in other professions?**
 
@@ -37,8 +30,6 @@ Luke and I are both the same age. I grew up in Minnesota, went to school here an
 
 Musically, I’ve been working on putting together the first few releases for a new label, like Luke mentioned, which includes writing and music of mine, a piece from Luke and music from Zhu Wenbo and photographs from a photographer, Lyn Corelle. I just finished up the last rehearsal for a piece with my main group, Realtree, a chamber quintet (and in this case it is a piece for double quintet). The piece is sort of a culmination of the last few years writing for this band. For whatever reason being a parent has been incredibly energizing in my artistic practice.
 
-
-
 **2. When did you start doing this type of music? Have you done any other type of music before this? Do you guys usually practice your instruments/equipment? I'd like to know more.**
 
 NOAH
@@ -53,8 +44,6 @@ I grew up playing jazz guitar. Straight ahead stuff. I loved it and still do. We
 
 Yes, I practice. Not as much as Noah though! He’s very disciplined with that. It’s admirable, if slightly intimidating. I don’t practice guitar as much anymore, at least at the moment. I did a lot of that years back when I played it regularly with Ordinary Affects. Nowadays I practice no-input mixing, probably because I’m improvising more frequently (I don’t improvise on guitar typically). ‘Practicing’ no-input is for me just improvising by myself for a couple hours or so, or with a friend. More often with friends! It is not so much about what sounds I can make or techniques I develop or hone, though that’s a part of it, of course. Practice, in the end, is about developing my relation to chance and silence and listening. A few tones, some simple feedback, and maybe a field recording always prove to be more than enough material. I am, ultimately, of the opinion that you don’t really need to make ‘sound’ at all to practice or play—which is not at all to say that sound is not welcome, nor an important part of that process!
 
-
-
 **3. It doesn't feel like it's your first time working together! You know each other very well. Have you performed together before? What was it like live?**
 
 LUKE
@@ -66,8 +55,6 @@ Performing together is great fun. When we improvise together I think we are each
 NOAH
 
 It was extremely easy for Luke and I to fall into certain things. The first time we played together at his place I was blown away with his playing. It really felt like we were building something together when we were improvising. Thinking about it now, someone told me about him when he first moved here and maybe I was scared or something but it took a second for us to start hanging out. I always feel comforted knowing that I could sit there with Luke for quite some time and we could each be doing almost nothing at all and be quite pleased with it. He has a terrible sense of humor and I love him dearly for it... Here we are and I’d do anything for him.
-
-
 
 **4. I heard that you two recently played a show in Minneapolis? In a small space? For our Chinese friends, Minneapolis is a bit of a strange and distant place, like a dream world. Can you talk briefly about what the new music scene in Minneapolis is like? About how many people are making this type of music? Are there new people coming in from time to time? Is there a strong connection with musicians from other states in the US? I'd like to know more too.**
 
@@ -101,8 +88,6 @@ NOAH
 
 All the recording was done in one day. Our friend, Patrick, who also plays with Realtree and has recorded all of that music, generously engineered the session in his backyard garage. Oh! I am just remembering— I forgot my mouthpiece for the session! Amazing... I think it’s fairly hard to tell that the two pieces are from the same day and location. Luke’s piece is filled with this dreamy bird and bug filled soundscape and my piece has cars driving through the alley, dog interjections, and construction noise.
 
-
-
 **6. When I heard both of your compositions, I felt a sense of freshness. It carries a strong eclecticism, in the seam of field recordings, improvised music, and experimental compositions. For example: you guys play the composition differently from the calm treatment of it by Wandelweiser or Taku Sugimoto (letting the music sink into the ambient sound), and you both have a lot of natural jitter/signal dynamics while playing .... It may sound a bit random, but every element is important. What were you thinking about during this recording process? Was there any kind of philosophy? Were there trade-offs?**
 
 LUKE
@@ -123,8 +108,6 @@ As far as my piece goes, I was trying to create a longer form out of a simple me
 
 There is no other person on the planet I can find myself droning on and on about the meaning of music, playing, composing whatever. It’s truly such a treat to be in the process together. There is absolutely no trading off when we are working together.
 
-
-
 **7. Are there any influences on your musicians/composers for your compositions? Any type of music...... or even pop music! Or anyone in another professional field?**
 
 LUKE
@@ -137,8 +120,6 @@ NOAH
 
 Friends—it’s so true... In a mentor sense I am thankful for Michelle Kinney, Adam Linz, Phil Hey and Pat Moriarty. In a music fan sense I am heavily indebted to Anthony Braxton, Henry Threadgill, Bill Dixon, Radu Malfarri, Sachiko M. In a philosophical, political sense I can’t stop thinking about Ishamel Reed, Simone Weil, Therese of Liseux, Lebbeus Woods, Susan Sontag. Samuel Delany has always centered my work in form and craftsmanship.
 
-
-
 **8. And finally, small talk for tea time! Is there a local food you love in Minneapolis? What hobbies do you have in your life? Do these hobbies have any influence on your music?**
 
 LUKE
@@ -150,10 +131,6 @@ In terms of hobbies, I play tennis. I’m sure there’s some cross-influence to
 NOAH
 
 It is impossible to get bad tacos in town... I love gardening with my partner and once I get some free time back in my life, studying chess is one of my favorite things to do—it’s like practicing cornet but nothing is at stake. I would love to play Luke in cribbage.
-
-
-
-
 
 **Thank you so much.** 
 
