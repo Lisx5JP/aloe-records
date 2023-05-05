@@ -2,8 +2,7 @@
 title: "Noah and Luke Interview: a cold dream in Minneapolis"
 slug: "2098"
 date: 2023-05-05T07:11:37.210Z
-tags:
-  - Interview
+tags: []
 description: I think this kind of gets at what’s going on when we play together.
 ---
 `Date: mid-March 2023`
