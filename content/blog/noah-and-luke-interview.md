@@ -12,6 +12,12 @@ description: I think this kind of gets at what’s going on when we play togethe
 
 `Answer: LUKE (Luke Martin) NOAH (Noah Ophoven-Baldwin)`
 
+![Noah Ophoven-Baldwin (left) and Luke Martin (right)](/images/uploads/noah-and-luke.jpg "Noah Ophoven-Baldwin (left) and Luke Martin (right)")
+
+Noah Ophoven-Baldwin (left) and Luke Martin (right)
+
+
+
 **1. Please tell us a little bit, introduce yourself. How old are you? What are you working on these days? Are you currently working as musicians/composers or in other professions?**
 
 LUKE
