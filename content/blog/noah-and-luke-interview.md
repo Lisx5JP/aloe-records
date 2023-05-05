@@ -78,6 +78,8 @@ When I was growing up there was this Minnesota Sur Seine festival which had musi
 
 Minneapolis (St. Paul too, our neighbor across the Mississippi river) is a great place to be a creative musician. It’s a bit of a slow rhythm here but I think that’s helpful. We don’t get too many new people but from time to time someone special shows up. Luke is a great example!
 
+{{< bandcamp id="3004311480" layout="medium" >}}
+
 **5. To me, this album is like a short version of the Realtree group coming to play "so softly that it came, a wild dim chatter, meaningless" sequel! It's a perfect blend of your usual creations. Can you tell us a little bit about what led to this album? Was the album recorded in one day? What were some of the interesting things that happened during the creation process?**
 
 LUKE
