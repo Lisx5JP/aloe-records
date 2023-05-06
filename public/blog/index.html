@@ -76,6 +76,10 @@
     align-items: center;
   }
 
+  .title h2 img {
+    margin: 0;
+  }
+
   .title:hover {
     text-decoration-line: none;
   }
@@ -106,7 +110,16 @@
   }
 
   img {
-    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 520px;
+    margin-bottom: 30px;
+  }
+
+  @media (max-width: 480px) {
+    img {
+      max-width: 100%;
+    }
   }
 
   code {
@@ -165,6 +178,13 @@
   ul.blog-posts li {
     display: flex;
     align-items: center;
+  }
+
+  @media (max-width: 480px) {
+    ul.blog-posts li {
+      line-height: 20px;
+      margin-bottom: 20px;
+    }
   }
 
   ul.blog-posts li span {
@@ -267,6 +287,39 @@
   </ul>
 
   <ul class="blog-posts">
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2023-01-13' pubdate>
+            2023-01-13
+          </time>
+        </i>
+      </span>
+      <a href="/blog/80977/">问答 芦荟唱片</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2023-01-13' pubdate>
+            2023-01-13
+          </time>
+        </i>
+      </span>
+      <a href="/blog/80976/">questions and answers about Aloe Records</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2022-11-20' pubdate>
+            2022-11-20
+          </time>
+        </i>
+      </span>
+      <a href="/blog/a-small-matter-to-tell-you-about-chinese/">一件小事，现在要告诉大家</a>
+    </li>
     
     <li>
       <span>

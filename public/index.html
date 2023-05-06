@@ -77,6 +77,10 @@
     align-items: center;
   }
 
+  .title h2 img {
+    margin: 0;
+  }
+
   .title:hover {
     text-decoration-line: none;
   }
@@ -107,7 +111,16 @@
   }
 
   img {
-    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 520px;
+    margin-bottom: 30px;
+  }
+
+  @media (max-width: 480px) {
+    img {
+      max-width: 100%;
+    }
   }
 
   code {
@@ -166,6 +179,13 @@
   ul.blog-posts li {
     display: flex;
     align-items: center;
+  }
+
+  @media (max-width: 480px) {
+    ul.blog-posts li {
+      line-height: 20px;
+      margin-bottom: 20px;
+    }
   }
 
   ul.blog-posts li span {
@@ -251,9 +271,9 @@
 </header>
   <main>
 <h2 id="about-new-releases">About New Releases</h2>
-<p><strong>Aloe-001 Aloe-002 will be released for pre-order on April 7</strong></p>
-<p>Soviet Pop - two small works: continuous and discrete (Aloe-001)</p>
-<p>Luke Martin / Noah Ophoven-Baldwin - aperture (Aloe-002)</p>
+<p><strong>Aloe-001 Aloe-002 will be released for pre-order now!</strong></p>
+<p>Aloe-001: <a href="https://aloerecords.bandcamp.com/album/two-small-works-continuous-and-discrete">Soviet Pop - two small works: continuous and discrete</a></p>
+<p>Aloe-002: <a href="https://aloerecords.bandcamp.com/album/aperture">Luke Martin / Noah Ophoven-Baldwin - aperture</a></p>
 <hr>
 <h2 id="about-aloe-records">About Aloe Records</h2>
 <p>Beijing-based limited edition publishing label for mainly experimental music and improvised music.</p>

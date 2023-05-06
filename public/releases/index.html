@@ -76,6 +76,10 @@
     align-items: center;
   }
 
+  .title h2 img {
+    margin: 0;
+  }
+
   .title:hover {
     text-decoration-line: none;
   }
@@ -106,7 +110,16 @@
   }
 
   img {
-    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 520px;
+    margin-bottom: 30px;
+  }
+
+  @media (max-width: 480px) {
+    img {
+      max-width: 100%;
+    }
   }
 
   code {
@@ -165,6 +178,13 @@
   ul.blog-posts li {
     display: flex;
     align-items: center;
+  }
+
+  @media (max-width: 480px) {
+    ul.blog-posts li {
+      line-height: 20px;
+      margin-bottom: 20px;
+    }
   }
 
   ul.blog-posts li span {
@@ -253,9 +273,32 @@
   
 
   
+  <strong style="padding-top: 16px; display: block;">Aloe series</strong>
+  
 
   <ul class="blog-posts">
     
+    <li>
+      <span>
+        <i>
+          <time datetime='2023-04-07' pubdate>
+            2023-04-07
+          </time>
+        </i>
+      </span>
+      <a href="/releases/aloe-002-luke-martin-noah-ophoven-baldwin-aperture/">Aloe-002: Luke Martin / Noah Ophoven-Baldwin - aperture</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2023-04-07' pubdate>
+            2023-04-07
+          </time>
+        </i>
+      </span>
+      <a href="/releases/aloe-001/">Aloe-001: Soviet Pop - two small works: continuous and discrete</a>
+    </li>
     
   </ul>
 

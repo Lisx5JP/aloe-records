@@ -88,6 +88,10 @@ Email: aloerecordss@gmail.com">
     align-items: center;
   }
 
+  .title h2 img {
+    margin: 0;
+  }
+
   .title:hover {
     text-decoration-line: none;
   }
@@ -118,7 +122,16 @@ Email: aloerecordss@gmail.com">
   }
 
   img {
-    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    max-width: 520px;
+    margin-bottom: 30px;
+  }
+
+  @media (max-width: 480px) {
+    img {
+      max-width: 100%;
+    }
   }
 
   code {
@@ -177,6 +190,13 @@ Email: aloerecordss@gmail.com">
   ul.blog-posts li {
     display: flex;
     align-items: center;
+  }
+
+  @media (max-width: 480px) {
+    ul.blog-posts li {
+      line-height: 20px;
+      margin-bottom: 20px;
+    }
   }
 
   ul.blog-posts li span {
