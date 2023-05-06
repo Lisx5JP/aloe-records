@@ -1,5 +1,6 @@
 ---
 title: "Aloe-001: Soviet Pop - two small works: continuous and discrete"
+slug: aloe-001
 date: 2023-04-07T15:39:54.088Z
 series: Aloe
 description: Aloe Series (Aloe Record's new series for duos) is pleased to
@@ -15,7 +16,7 @@ Track B: Op. 2 19’32’’\
 \
 All sounds come from Soviet Pop 苏维埃波普\
 Snare Drum (A) Pedal cymbal (B) by Li Qing 李青\
-Metronome (A) Four-track tape recorder (A&B) by Li Weisi 李维思\
+Metronome (B) Four-track tape recorder (A&B) by Li Weisi 李维思\
 \
 Recorded on March 24, 2023, Beijing\
 Mastered by Hiroyuki Ura 浦裕幸\

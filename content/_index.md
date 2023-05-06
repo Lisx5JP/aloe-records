@@ -1,6 +1,14 @@
 ## About New Releases
 
-**Aloe-001 Aloe-002 will be released for pre-order now!**
+**Next Releases...**
+
+Alone-003: Grisha Shakhnes - Here
+
+Alone-004: Zhao Cong - Unnamed Album
+
+- - -
+
+**Aloe-001 Aloe-002 out now!**
 
 Aloe-001: [Soviet Pop - two small works: continuous and discrete](https://aloerecords.bandcamp.com/album/two-small-works-continuous-and-discrete)
 
