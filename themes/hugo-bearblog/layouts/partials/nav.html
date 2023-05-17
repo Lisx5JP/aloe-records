@@ -8,6 +8,10 @@
 <a href="{{ "/releases" | relURL }}">Releases</a>
 {{ end }}
 
+{{ with .Site.GetPage "/events" }}
+<a href="{{ "/events" | relURL }}">Events</a>
+{{ end }}
+
 {{ range .Site.Menus.main.ByName.Reverse }}
 <a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
