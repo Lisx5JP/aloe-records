@@ -13,17 +13,17 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home Page"
         file: "content/_index.md"
         fields:
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Content", name: "body", widget: "markdown" }
       - name: "contact"
         label: "Contact Page"
         file: "content/contact.md"
         fields:
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Content", name: "body", widget: "markdown" }
       - name: "about"
         label: "About Page"
         file: "content/about.md"
         fields:
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Content", name: "body", widget: "markdown" }
   - name: "releases" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Release" # Used in the UI, ie.: "New Post"
     folder: "content/releases" # The path to the folder where the documents are stored
@@ -31,11 +31,11 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "date" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
       - { label: "Series", name: "series", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Content", name: "body", widget: "markdown" }
   - name: "blog"
     label: "Blog"
     folder: "content/blog"
@@ -43,10 +43,10 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "date" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Content", name: "body", widget: "markdown" }
   - name: "events"
     label: "Events"
     folder: "content/events"
@@ -54,7 +54,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "date" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Content", name: "body", widget: "markdown" }
