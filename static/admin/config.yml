@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
+      - { label: "Publish Date", name: "date", widget: "date", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
       - { label: "Series", name: "series", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
+      - { label: "Publish Date", name: "date", widget: "date", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Content", name: "body", widget: "markdown" }
@@ -54,7 +54,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
+      - { label: "Publish Date", name: "date", widget: "date", date_format: 'dd.MM.yyyy', time_format: false, format: 'yyyy-MM-dd' }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Content", name: "body", widget: "markdown" }
