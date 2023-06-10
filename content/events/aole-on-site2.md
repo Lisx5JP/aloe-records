@@ -12,18 +12,13 @@ description: June 20, 2023 from 9:00pm  fruity space, Beijing
 
 **June 20, 2023 from 9:00pm**  [**fruity space**](https://www.google.com.hk/maps/place/%EF%BD%86%EF%BC%B2%EF%BC%B5%EF%BC%A9%EF%BC%B4%EF%BC%B9%EF%BC%B3%EF%BC%B0%EF%BC%A1%EF%BC%A3%EF%BC%A5/@39.92591,116.41061,15z/data=!4m6!3m5!1s0x35f05329d523e1f1:0xd96cb6b2f243002d!8m2!3d39.92591!4d116.41061!16s%2Fg%2F11swvk2th8?entry=ttu)**, Beijing**
 
-Zhao Ziyi (bass)
+**Zhao Ziy**i (bass)
 
-Sun Yizhou (electronic)
+**Sun Yizhou** (electronic)
 
-Yan Jun (something)
+**Yan Jun** (something)
 
-Guibog (robotics)
-
-
-
-
-
+**Guibog** (robotics)
 
 赵子毅 Zhao Ziyi
 
@@ -33,13 +28,13 @@ Guibog (robotics)
 
 孙一舟 Sun Yizhou
 
-北京，乐手，从事实验音乐和即兴音乐。同时也经营着芦荟唱片。他主要使用电子反馈设备，也使用max/msp。他以独奏者的身份与其他乐手合作，并在东京的Ftarri和Zappak发行过CD，也在伦敦和台北的厂牌发行过磁带和数字唱片。[[[sunyizhou.org](sunyizhou.org)](sunyizhou.org)]
+北京，乐手，从事实验音乐和即兴音乐。同时也经营着芦荟唱片。他主要使用电子反馈设备，也使用max/msp。他以独奏者的身份与其他乐手合作，并在东京的Ftarri和Zappak发行过CD，也在伦敦和台北的厂牌发行过磁带和数字唱片。[[[[sunyizhou.org](sunyizhou.org)](sunyizhou.org)]([sunyizhou.org](sunyizhou.org))]
 
 颜峻 Yan Jun
 
 乐手，诗人，住在北京。
 
-使用噪音、田野录音、身体、概念作为素材。他的作品通常很简单，没有什么技巧，也不像音乐。 “我希望我是一份田野录音。” [[[yanjun.org](yanjun.org)](yanjun.org)]
+使用噪音、田野录音、身体、概念作为素材。他的作品通常很简单，没有什么技巧，也不像音乐。 “我希望我是一份田野录音。” [[[[yanjun.org](yanjun.org)](yanjun.org)]([yanjun.org](yanjun.org))]
 
 鬼大爷 Guibog
 
