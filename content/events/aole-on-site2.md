@@ -20,14 +20,6 @@ Yan Jun (something)
 
 Guibog (robotics)
 
-
-
-
-
-
-
-
-
 赵子毅 Zhao Ziyi
 
 生活在北京，演奏电贝司，偶尔也玩别的东西。
@@ -36,13 +28,13 @@ Guibog (robotics)
 
 孙一舟 Sun Yizhou
 
-北京，乐手，从事实验音乐和即兴音乐。同时也经营着芦荟唱片。他主要使用电子反馈设备，也使用max/msp。他以独奏者的身份与其他乐手合作，并在东京的Ftarri和Zappak发行过CD，也在伦敦和台北的厂牌发行过磁带和数字唱片。[[[sunyizhou.org](sunyizhou.org)](sunyizhou.org)]([http://sunyizhou.org](http://sunyizhou.org))
+北京，乐手，从事实验音乐和即兴音乐。同时也经营着芦荟唱片。他主要使用电子反馈设备，也使用max/msp。他以独奏者的身份与其他乐手合作，并在东京的Ftarri和Zappak发行过CD，也在伦敦和台北的厂牌发行过磁带和数字唱片。[[[sunyizhou.org](sunyizhou.org)](sunyizhou.org)]
 
 颜峻 Yan Jun
 
 乐手，诗人，住在北京。
 
-使用噪音、田野录音、身体、概念作为素材。他的作品通常很简单，没有什么技巧，也不像音乐。 “我希望我是一份田野录音。” [[[yanjun.org](yanjun.org)](yanjun.org)]([http://yanjun.org](http://yanjun.org))
+使用噪音、田野录音、身体、概念作为素材。他的作品通常很简单，没有什么技巧，也不像音乐。 “我希望我是一份田野录音。” [[[yanjun.org](yanjun.org)](yanjun.org)]
 
 鬼大爷 Guibog
 
