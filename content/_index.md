@@ -1,10 +1,10 @@
 ## About New Releases
 
-**Next Releases...**
+**pre-order now!**
 
-Alone-003: Grisha Shakhnes - Here
+Alone-003: [Grisha Shakhnes - Here](https://aloerecords.bandcamp.com/album/here)
 
-Alone-004: Zhao Cong - 55355
+[](https://aloerecords.bandcamp.com/album/here)Alone-004: [Zhao Cong - 55355](https://aloerecords.bandcamp.com/album/55355)
 
 - - -
 
