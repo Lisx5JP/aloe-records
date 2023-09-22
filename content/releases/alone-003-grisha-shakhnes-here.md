@@ -9,7 +9,7 @@ description: Here is a place that looks out to the rear. With the windows open
 ---
 ![](/images/uploads/alone003.png)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4276802119/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://aloerecords.bandcamp.com/album/here">here by Grisha Shakhnes</a></iframe>
+{{< bandcamp id="4276802119" layout="medium" >}}
 
 Grisha Shakhnes is a composer and sound artist currently living in Israel. He moved to a new place in Holon in 2022, in which he have it recorded for the first time, as simple as the title suggests. \
 \
@@ -18,8 +18,6 @@ Here is a place that looks out to the rear. With the windows open in his guest r
 Grisha Shakhnes interview on the website. \
 English:  [aloerecords.com/blog/0901/](https://aloerecords.com/blog/0901/) \
 Chinese:  [aloerecords.com/blog/0902/](https://aloerecords.com/blog/0902/)
-
-
 
 ![](/images/uploads/l1126880.png)
 
@@ -31,11 +29,8 @@ Chinese:  [aloerecords.com/blog/0902/](https://aloerecords.com/blog/0902/)
 released September 22, 2023 
 
 1. empty doorways 07'57''
-
 2. here 19'55''
-
 3. and gone 16'22''
-
 4. like that 11'25''
 
 \
