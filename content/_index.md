@@ -1,6 +1,6 @@
 ## About New Releases
 
-**pre-order now!**
+**Alone-003 Alone-004 out now!**
 
 Alone-003: [Grisha Shakhnes - Here](https://aloerecords.bandcamp.com/album/here)
 
