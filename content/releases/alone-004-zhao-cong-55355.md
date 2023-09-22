@@ -11,6 +11,8 @@ description: 55355 is a recording that is both outdoors and in-outdoors at the
 ---
 ![](/images/uploads/alone004.png)
 
+{{< bandcamp id="2476824477" layout="medium" >}}
+
 55355 is a recording that is both outdoors and in-outdoors at the same time. It is "electric" music, but not electronic music at the same time. Recorded on 9th April 2023, it consists of four sessions, which were excerpted after without overdubbing. This may sound cryptic, but would make clear once you hear it.
 
 ![](/images/uploads/l1126881.png)
@@ -23,11 +25,8 @@ description: 55355 is a recording that is both outdoors and in-outdoors at the
 released September 22, 2023 
 
 1. Swing 摇摆 08'25''
-
 2. Length 距离 09'44''
-
 3. Contact 接触 16'20''
-
 4. Prison 监狱 02'07''
 
 \
