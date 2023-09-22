@@ -39,4 +39,4 @@ Released by Aloe Records 2023 (Alone-004) 
 
 \-———- 
 
-Zhao Cong is an experimental musician living in Beijing. She has been playing improvised music through her own approach since 2016, before and after she plays bass in rock band. When making music, Zhao Cong uses a variety of everyday objects, amplified by pickups from a variety of microphones, to bring out unfamiliar and heterogeneous sounds.
+Zhao Cong (赵丛) is an experimental musician living in Beijing. She has been playing improvised music through her own approach since 2016, before and after she plays bass in rock band. When making music, Zhao Cong uses a variety of everyday objects, amplified by pickups from a variety of microphones, to bring out unfamiliar and heterogeneous sounds.
