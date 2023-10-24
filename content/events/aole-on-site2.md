@@ -1,5 +1,5 @@
 ---
-title: Aole on-site 2
+title: Aloe on-site 2
 slug: "0620"
 date: 2023-06-10
 tags:
