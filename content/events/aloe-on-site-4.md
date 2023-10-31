@@ -10,11 +10,19 @@ description: November 04, 2023 from 16:30pm
 
 **November 04, 2023 from 16:30pm** [](https://www.google.com.hk/maps/place/%EF%BD%86%EF%BC%B2%EF%BC%B5%EF%BC%A9%EF%BC%B4%EF%BC%B9%EF%BC%B3%EF%BC%B0%EF%BC%A1%EF%BC%A3%EF%BC%A5/@39.92591,116.41061,15z/data=!4m6!3m5!1s0x35f05329d523e1f1:0xd96cb6b2f243002d!8m2!3d39.92591!4d116.41061!16s%2Fg%2F11swvk2th8?entry=ttu)**[藏住空间](https://www.google.de/maps/place/Xixinchengcun,+Changping+District,+Beijing,+China,+101322/@40.219109,116.4388263,15z/data=!3m1!4b1!4m6!3m5!1s0x35f11d096331df5b:0xfcd69c59f1cb86a2!8m2!3d40.21911!4d116.449126!16s%2Fg%2F11c618kkxx?entry=ttu), Beijing**
 
-**VAVABAND
-Li Jianhong
-Zhu Wenbo
-Sun Yizhou
-Zhao Cong**
+**VAVABAND**
+
+
+**Li Jianhong**
+
+
+**Zhu Wenbo**
+
+
+**Sun Yizhou**
+
+
+**Zhao Cong**
 
 \
 VAVABOND，笔记本即兴乐手，噪音乐手。通过以非线性时间的方法对大量无意义和细碎的声音进行处理，尤其在各种环境语境中探索“时间”和“存在”的主题。除个人计划外，也是迷幻噪音乐队“迷走神经”和自由即兴双人组“Mind Fiber”的成员。
