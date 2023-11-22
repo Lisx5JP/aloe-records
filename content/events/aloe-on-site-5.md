@@ -7,7 +7,7 @@ description: |-
   Ake + Zhao Ziyi + Sun Yizhou,
   Zhu Wenbo Performed Stefan Thut 'another'
 ---
-![]()
+![](/images/uploads/on-site-5.png)
 
 **November 26, 2023 (Sun) PM; doors open at 15:00; performance 16:00-17:30 @小野空间, Beijing**
 
@@ -16,8 +16,6 @@ Advance reservations are required, please email aloerecordss@gmail.com for addre
 **Dong Xing,
 Ake + Zhao Ziyi + Sun Yizhou,
 Zhu Wenbo Performed Stefan Thut 'another'**
-
-
 
 **董星**，生于一九八四年
 
