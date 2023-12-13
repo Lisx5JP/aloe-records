@@ -5,7 +5,7 @@ date: 2023-12-13T08:57:03.017Z
 description: "**Afterpay, Ake, Liu Lu, Da Hang****November 26, 2023 (Sun) PM;
   doors open at 15:00; performance 16:00-17:30 @小野空间, Beijing**"
 ---
-![](/images/uploads/aloe-onsite6.png)
+![](/images/uploads/aloe-onsite6.jpg)
 
 **November 26, 2023 (Sun) PM; doors open at 15:00; performance 16:00-17:30 @小野空间, Beijing**
 
