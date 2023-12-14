@@ -2,18 +2,16 @@
 title: Aloe on-site 6
 slug: "122423"
 date: 2023-12-13T08:57:03.017Z
-description: "**Afterpay, Ake, Liu Lu, Da Hang****November 26, 2023 (Sun) PM;
+description: "**Afterpay, Ake, Liu Lu, Da Hang****December 24, 2023 (Sun) PM;
   doors open at 15:00; performance 16:00-17:30 @小野空间, Beijing**"
 ---
 ![](/images/uploads/aloe-onsite6.jpg)
 
-**November 26, 2023 (Sun) PM; doors open at 15:00; performance 16:00-17:30 @小野空间, Beijing**
+**December 24, 2023 (Sun) PM; doors open at 15:00; performance 16:00-17:30 @小野空间, Beijing**
 
 Advance reservations are required, please email [aloerecordss@gmail.com](mailto:aloerecordss@gmail.com) for address (send at least one day in advance)
 
 **Afterpay, Ake, Liu Lu, Da Hang**
-
-
 
 **阿科**
 
