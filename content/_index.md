@@ -1,18 +1,20 @@
 ## About New Releases
 
-**Alone-003 Alone-004 out now!**
+**Earlier next year!**
 
-Alone-003: [Grisha Shakhnes - Here](https://aloerecords.bandcamp.com/album/here)
+Alone-005: Leo Okagawa - Send and Return
 
-[](https://aloerecords.bandcamp.com/album/here)Alone-004: [Zhao Cong - 55355](https://aloerecords.bandcamp.com/album/55355)
+Alone-006: Roel Meelkop - muddy pools
+
+Aloe-003: Hiroyuki Ura/Zhu Wenbo- Jyunishi 十二支
+
+Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku
 
 - - -
 
-**Aloe-001 Aloe-002 out now!**
+**special one-year anniversary edition out now!**
 
-Aloe-001: [Soviet Pop - two small works: continuous and discrete](https://aloerecords.bandcamp.com/album/two-small-works-continuous-and-discrete)
-
-Aloe-002: [Luke Martin / Noah Ophoven-Baldwin - aperture](https://aloerecords.bandcamp.com/album/aperture)
+[Aloe-001: ](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)[Zhu Wenbo - four lines and improvisation](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
 
 - - -
 
