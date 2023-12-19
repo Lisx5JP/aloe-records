@@ -1,6 +1,6 @@
 ## About New Releases
 
-**Earlier next year!**
+**Earlier next year 2024!**
 
 Alone-005: Leo Okagawa - Send and Return
 
@@ -12,9 +12,9 @@ Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku
 
 - - -
 
-**special one-year anniversary edition out now!**
+**Happy New Year 2024!**
 
-[Aloe-001: Zhu Wenbo - four lines and improvisation](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
+[Aloe-001: Zhu Wenbo - four lines and improvisation (special one-year anniversary edition)](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
 
 - - -
 
