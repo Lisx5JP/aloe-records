@@ -14,7 +14,7 @@ Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku
 
 **special one-year anniversary edition out now!**
 
-[Aloe-001: ](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)[Zhu Wenbo - four lines and improvisation](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
+[Aloe-001: Zhu Wenbo - four lines and improvisation](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
 
 - - -
 
