@@ -6,7 +6,7 @@ Alone-005: Leo Okagawa - Send and Return
 
 Alone-006: Roel Meelkop - muddy pools
 
-Aloe-003: Hiroyuki Ura/Zhu Wenbo- Jyunishi 十二支
+Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支
 
 Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku
 
