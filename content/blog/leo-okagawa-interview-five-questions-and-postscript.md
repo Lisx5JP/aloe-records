@@ -4,7 +4,7 @@ slug: "0202"
 date: 2024-02-02T07:49:23.106Z
 description: However, I don’t like to take the same way twice or more, so I’ve
   never done it again after then. Now that CD is somewhere in my room, but I
-  don’t know where it i
+  don’t know where it is
 ---
 `Date: October 2023`
 
