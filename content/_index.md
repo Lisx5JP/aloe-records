@@ -12,8 +12,6 @@ Alone-006: Roel Meelkop - muddy pools
 
 [Aloe-001: Zhu Wenbo - four lines and improvisation (special one-year anniversary edition)](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
 
-- - -
-
 **in the future...**
 
 Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支
