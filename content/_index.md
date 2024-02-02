@@ -2,9 +2,9 @@
 
 **Pre-order now!** 
 
-Alone-005: Leo Okagawa - Send and Return
+[Alone-005: Leo Okagawa - Send and Return](https://aloerecords.bandcamp.com/album/send-and-return)
 
-Alone-006: Roel Meelkop - Muddy Ponds
+[Alone-006: Roel Meelkop - Muddy Ponds](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
 - - -
 
