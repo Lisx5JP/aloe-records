@@ -6,7 +6,7 @@ description: two solos and one duo
 ---
 ![](/images/uploads/on-site-7.jpg)
 
-**2024年2月27日(二) at 团结湖 小野空间**
+**2024年2月27日(二) at 团结湖 小野空间, Beijing**
 
 **19:00 open｜19:30 start**
 
