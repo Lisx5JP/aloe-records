@@ -1,6 +1,6 @@
 ## About New Releases
 
-**Pre-order now!** 
+**Release now!** 
 
 [Alone-005: Leo Okagawa - Send and Return](https://aloerecords.bandcamp.com/album/send-and-return)
 
