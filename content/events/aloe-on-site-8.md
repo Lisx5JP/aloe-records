@@ -5,7 +5,7 @@ date: 2024-03-11T17:52:02.674Z
 description: "**刘梓峰 Liu Zifeng****孙一舟 Sun Yizhou****Tom Soloveitzik****日常 Ri
   Chang (羊库库+赵子毅)**"
 ---
-![](/images/uploads/on-site-8.jpg)
+![](/images/uploads/on-site-8-2-.jpg)
 
 **2024年3月26日(二) at 团结湖 小野空间**
 
