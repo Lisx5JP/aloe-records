@@ -15,7 +15,7 @@ Muddy Ponds is a pretty uncommon work, unlike any of his former releases. The co
 \
 “Near my house there is a natural pond and in springtime and summer it's full of frogs talking to each other. I love the sounds they make, so I decided to make a recording of this. Afterwards, when I listened to it, I noticed how many other sounds were present as well, which meant I had no clean recording of the frogs. At first I was pretty frustrated with it. But after listening repeatedly, I started to hear it in a different perspective. The unclean recording was basically full of life, even if that was not what I had originally hoped for. This prompted me to start working on it in a way that is quite unlike my other work. Instead of making the work sparse and open, it's fuller and muddier than usual, a bit like the pond. Sounds are quite similar to each other and often blur together. On top of that there is a constant friction, as if my frustration about the muddiness has found a way in here, or out. Then again, life as we know it started in muddy ponds, I believe. The other two tracks are based on the same concept, but have different sound origins.” - Roel Meelkop
 
-![](/images/uploads/l1127615.png)
+![](/images/uploads/l1127615.jpg)
 
 • 250g front and back printing paper.\
 • professional transparent cassette & digital download code.\

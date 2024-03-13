@@ -18,7 +18,7 @@ Leo Okagawa interview on the website.\
 English: [aloerecords.com/blog/0202/](https://aloerecords.com/blog/0202/)\
 Chinese: [aloerecords.com/blog/0217/](https://aloerecords.com/blog/0217/)
 
-![](/images/uploads/l1127578.png)
+![](/images/uploads/l1127578.jpg)
 
 • 250g front and back printing paper.\
 • professional transparent cassette & digital download code.\
