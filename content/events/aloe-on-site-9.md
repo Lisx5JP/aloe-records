@@ -13,8 +13,6 @@ description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu W
 
 **信息 / info / <https://aloerecords.com/events/>**
 
-
-
 **秦相太 Jin Sangtae**
 
 **孙一舟 Sun Yizhou**
@@ -23,7 +21,7 @@ description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu W
 
 **颜峻 Yan Jun+崔俊勇 Choi Joonyong**
 
-
+**\-----**
 
 **Jin Sangtae (秦相太)**
 
@@ -33,8 +31,6 @@ description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu W
 
 作为组织者，他于 2008 年创建并运营了韩国首个即兴/实验音乐专业场地 "dotolim"。此后，在 2012 年、2013 年和 2017 年，他还组织了 "dotolimpic “即兴/实验音乐节。
 
-
-
 **Choi Joonyong (崔峻溶)**
 
 来自韩国首尔。1996 年，他与 Hong Chulki (洪铁基) 共同创立了韩国首个噪音项目 Astronoise。他对即兴演奏/作曲的控制和失控很感兴趣。
@@ -42,8 +38,6 @@ description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu W
 最近，他正致力于以劣质声音/演奏为重点的表演。他曾发行过个人专辑，如利用 CD 播放器故障制作的《DANTHRAX》。2020 年，与 Jin Sangtae 合作的二重奏专辑由 Erstwhile Records 发行。
 
 自 2000 年以来，他一直为一个名为 "Balloon & Needle (气球与针) "的厂牌制作与设计专辑。他还是慢核乐队 "Through the Sloe "和厄运金属乐队 "Vomit & Tear "的成员。
-
-
 
 **颜峻** 
 
@@ -58,4 +52,6 @@ description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu W
 住在北京。他参与很多的音乐探索与实践，比如电子原声音乐，磁带音乐，原声乐器的演奏，即兴，作曲，歌曲创作，出版发行…… 朱文博运作实验音乐厂牌“燥眠夜”，组织很小的演出（自2009年开始），出版磁带（自2015年开始）。通过一些跨地域合作，燥眠夜将一些少为人知的音乐实践探索记录带入到其它领域的听众视野中。zhuwenbo.bandcamp.com
 
 **孙一舟**
+
+
 2000年生，住在北京。即兴乐手。从事电声即兴、概念性音乐创作。2019年开始活跃在北京及国内地下音乐场景，2022年创办独立厂牌“芦荟唱片”至今。主要使用多种廉价且错误操作的电器，发出极其干硬的反馈。他的音乐专辑曾于Ftarri、Zappak(东京)、Brachliegen、Steep Gloss(伦敦)、業力引爆(台北)、無害(香港)等多个实验音乐厂牌发行CD以及盒式磁带。sunyizhou.org
