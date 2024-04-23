@@ -1,5 +1,13 @@
 ## About New Releases
 
+**New album will be available for pre-order on May 3rd.**
+
+Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支
+
+Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
+
+- - -
+
 **Release now!** 
 
 [Alone-005: Leo Okagawa - Send and Return](https://aloerecords.bandcamp.com/album/send-and-return)
