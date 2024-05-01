@@ -1,14 +1,14 @@
 ## About New Releases
 
-**New album will be available for pre-order on May 3rd.**
+**New album pre-order now!**
 
-Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支
+[Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支](https://aloerecords.bandcamp.com/album/jyunishi)
 
-Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
+[Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku](https://aloerecords.bandcamp.com/album/dzan-puku)[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
 - - -
 
-**Release now!** 
+**New release:**
 
 [Alone-005: Leo Okagawa - Send and Return](https://aloerecords.bandcamp.com/album/send-and-return)
 
@@ -21,10 +21,6 @@ Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku[](https://aloerecords.bandcamp.c
 [Aloe-001: Zhu Wenbo - four lines and improvisation (special one-year anniversary edition)](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
 
 **in the future...**
-
-Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支
-
-Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku
 
 Alone-007: ayrtbh - Synthetic Weather Reporter
 
