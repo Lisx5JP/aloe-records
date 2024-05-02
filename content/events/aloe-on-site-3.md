@@ -2,6 +2,7 @@
 title: Aloe on-site 3
 slug: "102423"
 date: 2023-10-24T15:55:54.717Z
+series: on-site
 description: |-
   KEIU (audiovisual)
   VAVABOND (laptop)

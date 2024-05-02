@@ -98,5 +98,7 @@
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/contact/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2011/</loc>
   </url>
 </urlset>

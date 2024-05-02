@@ -2,6 +2,7 @@
 title: " Aloe on-site 8"
 slug: "031224"
 date: 2024-03-11T17:52:02.674Z
+series: on-site
 description: "**刘梓峰 Liu Zifeng****孙一舟 Sun Yizhou****Tom Soloveitzik****日常 Ri
   Chang (羊库库+赵子毅)**"
 ---

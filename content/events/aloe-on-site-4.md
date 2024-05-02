@@ -2,6 +2,7 @@
 title: Aloe on-site 4
 slug: "110423"
 date: 2023-10-31T07:53:53.829Z
+series: on-site
 description: November 04, 2023 from 16:30pm
 ---
 ![](/images/uploads/aloe-on-site4.png)

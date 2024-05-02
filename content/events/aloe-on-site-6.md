@@ -2,6 +2,7 @@
 title: Aloe on-site 6
 slug: "122423"
 date: 2023-12-13T08:57:03.017Z
+series: on-site
 description: "**Afterpay, Ake, Liu Lu, Da Hang****December 24, 2023 (Sun) PM;
   doors open at 15:00; performance 16:00-17:30 @小野空间, Beijing**"
 ---

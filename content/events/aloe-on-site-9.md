@@ -2,6 +2,7 @@
 title: " Aloe on-site 9"
 slug: "0412"
 date: 2024-03-15T05:12:49.057Z
+series: on-site
 description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu Wenbo+赵丛 Zhao
   Cong****颜峻 Yan Jun+崔俊勇 Choi Joonyong**"
 ---
