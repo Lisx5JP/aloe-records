@@ -1,5 +1,5 @@
 ---
-title: " Hiroyuki Ura and Zhu Wenbo Interview: meeting, language, recording and time"
+title: " Hiroyuki Ura / Zhu Wenbo Interview: meeting, language, recording and time"
 slug: "0502"
 date: 2024-05-02T07:00:00.000Z
 description: "Editor's Note: The collaborative album \"Jyunishi 十​二​支\" by
