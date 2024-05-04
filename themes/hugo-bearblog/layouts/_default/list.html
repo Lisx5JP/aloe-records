@@ -79,12 +79,12 @@
     {{ end }}
   </ul> -->
 
-  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "workshop" ) }}
-  <strong style="padding-top: 16px; display: block;">Workshop</strong>
+  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "on-site" ) }}
+  <strong style="display: block;">On-site</strong>
   {{ end }}
 
   <ul class="blog-posts">
-    {{ range where (where .Pages "Section" "events") "Params.series" "==" "workshop" }}
+    {{ range where (where .Pages "Section" "events") "Params.series" "==" "on-site" }}
     <li>
       <span>
         <i>
@@ -99,12 +99,12 @@
     {{ end }}
   </ul>
 
-  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "on-site" ) }}
-  <strong style="display: block;">On-site</strong>
+  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "workshop" ) }}
+  <strong style="padding-top: 16px; display: block;">Workshop</strong>
   {{ end }}
 
   <ul class="blog-posts">
-    {{ range where (where .Pages "Section" "events") "Params.series" "==" "on-site" }}
+    {{ range where (where .Pages "Section" "events") "Params.series" "==" "workshop" }}
     <li>
       <span>
         <i>
