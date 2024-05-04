@@ -8,23 +8,31 @@
 
 - - -
 
-**New release:**
-
-[Alone-005: Leo Okagawa - Send and Return](https://aloerecords.bandcamp.com/album/send-and-return)
-
-[Alone-006: Roel Meelkop - Muddy Ponds](https://aloerecords.bandcamp.com/album/muddy-ponds)
-
-- - -
-
 **Happy New Year 2024!**
 
 [Aloe-001: Zhu Wenbo - four lines and improvisation (special one-year anniversary edition)](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
 
-**in the future...**
+**Future:** 
 
 Alone-007: ayrtbh - Synthetic Weather Reporter
 
 Alone-008: Evan Lindorff-Ellery - Cymbals and Night
+
+- - -
+
+**Distribution:**
+
+[Subjam](https://subjam.org/) (CN)
+
+[fRUITYAPACE](https://www.google.com.hk/maps/place/Fruityspace/@39.92591,116.41061,15z/data=!4m2!3m1!1s0x0:0xd96cb6b2f243002d?sa=X&ved=1t:2428&ictx=111) (CN)
+
+[postpost space](https://3ssstudios.com/pages/store) (CN)
+
+[Portal](https://www.instagram.com/portal_canton/) (CN)
+
+[Tobira Records](https://tobirarecords.com/) (JP)
+
+[ROPE EDITIONS](https://www.ropeeditions.xyz/) (ROK)
 
 - - -
 
