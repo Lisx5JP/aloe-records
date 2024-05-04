@@ -39,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY.MM.DD" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
       - { label: "Series", name: "series", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY.MM.DD" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Content", name: "body", widget: "markdown" }
@@ -62,7 +62,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "URL Slug", name: "slug", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY.MM.DD" }
+      - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD" }
       - { label: "Series", name: "series", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Description", name: "description", widget: "text" }
