@@ -2,7 +2,7 @@
 title: Aloe on-site 10
 slug: "0518"
 date: 2024-05-13
-series: On-site
+series: on-site
 description: |-
   2024年5月18日(六) at postpost 2.0
   20:00 open｜20:30 start｜door: free
