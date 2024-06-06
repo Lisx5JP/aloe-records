@@ -16,7 +16,7 @@ description: |-
 
 **postpost 2.0 / 北京市幸福三村五巷**
 
-**\---**
+\----
 
 **柳汉吉 (Ryu Hankil)** 
 
