@@ -8,11 +8,7 @@
 
 - - -
 
-**Happy New Year 2024!**
-
-[Aloe-001: Zhu Wenbo - four lines and improvisation (special one-year anniversary edition)](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)
-
-**Future:** 
+[](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)**Future:** 
 
 Alone-007: ayrtbh - Synthetic Weather Reporter
 
