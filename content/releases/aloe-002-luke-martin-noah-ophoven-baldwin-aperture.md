@@ -53,3 +53,11 @@ No need to do much else but give it a nice breath or, on a string, a little wigg
 \-Noah  [](<>)
 
 releases May 5, 2023
+
+![](/images/uploads/l1126168.jpg)
+
+• 250g front and back folded printed paper.
+
+• Professional clear cassette & bandcamp download code.
+
+• Handwritten number, only 60 copies!
