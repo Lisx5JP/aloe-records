@@ -1,5 +1,6 @@
 ---
 title: "Aloe-002: Luke Martin / Noah Ophoven-Baldwin - aperture"
+slug: aloe-002
 date: 2023-04-07T16:04:11.965Z
 series: Aloe
 description: The window can do whatever it wants.
