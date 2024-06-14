@@ -1,7 +1,7 @@
 ---
 title: "Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支"
 slug: aloe-003
-date: 2024-06-14
+date: 2024-06-13
 series: Aloe
 description: This is a new album by the two musicians, who have been exchanging
   recordings and re-creating them using the "tape loop" method of composition.
