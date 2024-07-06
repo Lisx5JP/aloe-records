@@ -2,17 +2,9 @@
 
 **New album pre-order now!**
 
-[Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支](https://aloerecords.bandcamp.com/album/jyunishi)
+[](https://aloerecords.bandcamp.com/album/synthetic-weather-reporter)[Alone-007: ayrtbh - Synthetic Weather Reporter](https://aloerecords.bandcamp.com/album/synthetic-weather-reporter)
 
-[Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku](https://aloerecords.bandcamp.com/album/dzan-puku)[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
-
-- - -
-
-[](https://aloerecords.bandcamp.com/album/four-lines-and-improvisation)**Future:** 
-
-Alone-007: ayrtbh - Synthetic Weather Reporter
-
-Alone-008: Evan Lindorff-Ellery - Cymbals and Night
+[Alone-008: Evan Lindorff-Ellery - Cymbals and Night](https://aloerecords.bandcamp.com/album/cymbals-and-night)[](https://aloerecords.bandcamp.com/album/dzan-puku)[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
 - - -
 
