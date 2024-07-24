@@ -59,7 +59,9 @@ Seiji: Massages always feel good. Since vibration is a physical phenomenon, I fe
 
 Eric: I never have a clear answer differentiating sound and music. I’m not even sure if it is necessary. I always feel like there is an implied elitism differentiating the two, but lot of definitions I have heard from the others can be applied to both what are broadly considered as music and non-musical sound. Let’s say one might consider pitches and rhythms as major components of music, some might consider poems in tonal languages (Chinese poems, for instance) as musical but I don’t think a lot of people would consider them music. But many would rhetorically say birds or whales sing, but the concept of “songs” is man made, birds and whales may not consider it as such. I think music is simply a way we define or manipulate our relationships with the sound we hear or produce, but we always relate ourselves to the sound we hear anyway. For instance, I live in big cities my entire life and I love being in big cities, my relationship with the sound of buzzing cities is probably very different than someone who grew up in a village or those who prefer quiet surroundings.
 
-Seiji: Sound is just sound. For me, music is about producing, listening and feeling sound in a space. 
+Seiji: Sound is just sound. For me, music is about producing, listening and feeling sound in a space.
+
+The tea ceremony is the place, act and preparation of a cup of tea. The tea tastes tea
 
 **6. what is the role of your bodies in this music making?**
 
@@ -67,7 +69,7 @@ Eric: I often hear people joking about laptop musicians, saying that they are ch
 
 Seiji: In my case, the body is part of a device that produces and observes sounds without training or control. 
 
-The tea ceremony is the place, act and preparation of a cup of tea. The tea tastes tea.
+
 
 **7. what was the last time you been shocked, mentally or electrically?**
 
