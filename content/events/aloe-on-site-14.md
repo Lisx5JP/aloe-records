@@ -11,7 +11,7 @@ September 9, 2024 at Xiaoye space, Beijing
 
 Otomo Yoshihide+Zhu Wenbo, Chris Pitsiokos+Yan Jun, Zhao Ziyi
 
-19:00 open｜19:30 start｜door: 120
+19:00 open｜19:30 start｜door: 120rmb
 
 信息 / info / https://aloerecords.com/events/
 
