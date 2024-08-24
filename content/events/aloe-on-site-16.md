@@ -2,7 +2,7 @@
 title: Aloe on-site 16
 slug: "0921"
 date: 2024-08-25
-series: On-site
+series: on-site
 description: Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing
 ---
 ![](/images/uploads/on-site-16.jpg)
