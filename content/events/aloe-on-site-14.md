@@ -11,7 +11,7 @@ September 9, 2024 at Xiaoye space, Beijing
 
 Otomo Yoshihide+Zhu Wenbo, Chris Pitsiokos+Yan Jun, Zhao Ziyi
 
-19:00 open｜19:30 start｜door: 60
+19:00 open｜19:30 start｜door: 120
 
 信息 / info / https://aloerecords.com/events/
 
@@ -29,21 +29,13 @@ https://otomoyoshihide.com
 
 www.chrispitsiokos.com
 
-
-
 **颜峻**，乐手，诗人，住在北京。做实验音乐和即兴音乐。使用噪音、田野录音、身体、概念作为素材。他的作品通常很简单，没有什么技巧，也不像音乐。有时候会去观众家演奏塑料袋。
 
 “我希望我是一份田野录音。”
 
-
-
 yanjun.org
 
-
-
 **朱文博**，住在北京。他参与很多的音乐探索与实践，比如电子原声音乐，磁带音乐，原声乐器的演奏，即兴，作曲，歌曲创作，出版发行…… 朱文博运作实验音乐厂牌“燥眠夜”，组织小的演出（自2009年开始），出版磁带（自2015年开始）。通过一些跨地域合作，燥眠夜将一些少为人知的音乐实践探索记录带入到其它领域的听众视野中。
-
-
 
 zhuwenbo.bandcamp.com｜zoominnight.com
 
