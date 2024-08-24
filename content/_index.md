@@ -1,4 +1,4 @@
-## About New Releases
+## About Aloe News
 
 **New Summer Releases!**
 
