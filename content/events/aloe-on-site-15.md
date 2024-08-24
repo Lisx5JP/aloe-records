@@ -7,7 +7,7 @@ description: Manfred Werder solo / Mirror Improvisation Committee paly Manfredâ€
 ---
 ![](/images/uploads/on-site-15.jpg)
 
-September 15, 2024 Xiaoye space, Beijing
+September 15, 2024 at Xiaoye space, Beijing
 
 Manfred Werder solo
 
