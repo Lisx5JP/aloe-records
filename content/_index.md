@@ -1,6 +1,6 @@
 ## About New Releases
 
-**New album pre-order now!**
+**New Summer Releases!**
 
 [](https://aloerecords.bandcamp.com/album/synthetic-weather-reporter)[Alone-007: ayrtbh - Synthetic Weather Reporter](https://aloerecords.bandcamp.com/album/synthetic-weather-reporter)
 
