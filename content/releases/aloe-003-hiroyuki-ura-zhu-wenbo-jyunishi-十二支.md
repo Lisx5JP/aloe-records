@@ -1,5 +1,5 @@
 ---
-title: "Aloe-003: Hiroyuki Ura/Zhu Wenbo - Jyunishi 十二支"
+title: "Aloe-003: Hiroyuki Ura / Zhu Wenbo - Jyunishi 十二支"
 slug: aloe-003
 date: 2024-06-13
 series: Aloe
