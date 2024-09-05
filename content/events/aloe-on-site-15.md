@@ -11,7 +11,7 @@ September 15, 2024 at Xiaoye space, Beijing
 
 Manfred Werder solo
 
-Mirror Improvisation Committee paly Manfred‘s composition
+Mirror Improvisation Committee play Manfred‘s composition
 
 15:00 open｜15:30 start｜door: 60-100rmb
 
@@ -19,7 +19,7 @@ Mirror Improvisation Committee paly Manfred‘s composition
 
 预约 / reservation / aloerecordss@gmail.com
 
-Manfred Werder's visit to Beijing is supported by the Swiss Cultural Foundation Shanghai Office (瑞士文化基金会上海办公室) and Kojima 216 (小岛216)
+Manfred Werder's visit to Beijing is supported by the Swiss Cultural Foundation Shanghai Office (瑞士文化基金会上海办公室) and Isles 216 (小岛216)
 
 ///
 
