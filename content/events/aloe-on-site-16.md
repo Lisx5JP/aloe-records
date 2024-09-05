@@ -11,7 +11,7 @@ September 21, 2024 at Xiaoye space, Beijing
 
 Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing
 
-19:00 open｜19:30 start｜door: 60-100rmb
+15:00 open｜15:30 start｜door: 60-100rmb
 
 信息 / info / https://aloerecords.com/events/
 
