@@ -7,7 +7,7 @@ description: Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing
 ---
 ![](/images/uploads/on-site-16.jpg)
 
-September 9, 2024 at Xiaoye space, Beijing
+September 21, 2024 at Xiaoye space, Beijing
 
 Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing
 
