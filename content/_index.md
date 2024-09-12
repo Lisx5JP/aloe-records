@@ -1,18 +1,14 @@
 ## About Aloe News
 
-**New Summer Releases!**
+**New pe-order!**
 
-[](https://aloerecords.bandcamp.com/album/synthetic-weather-reporter)[Alone-007: ayrtbh - Synthetic Weather Reporter](https://aloerecords.bandcamp.com/album/synthetic-weather-reporter)
-
-[Alone-008: Evan Lindorff-Ellery - Cymbals and Night](https://aloerecords.bandcamp.com/album/cymbals-and-night)[](https://aloerecords.bandcamp.com/album/dzan-puku)[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
+[Alone-009: Sun Yizhou - typewriter in the rain](https://aloerecords.bandcamp.com/album/typewriter-in-the-rain)[](https://aloerecords.bandcamp.com/album/cymbals-and-night)[](https://aloerecords.bandcamp.com/album/dzan-puku)[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
 - - -
 
 **Next event:**
 
-![](/images/uploads/otomo_chris_omini.jpg)
-
-![](/images/uploads/otomo_chris_xiaoye.jpg)
+![](/images/uploads/on-site-15.jpg)
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
