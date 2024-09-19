@@ -1,5 +1,5 @@
 ---
-title: "Aloe-004: Seiji Morimoto/Eric Wong - Dzan-puku"
+title: "Aloe-004: Seiji Morimoto / Eric Wong - Dzan-puku"
 slug: aloe-004
 date: 2024-06-14
 series: Aloe

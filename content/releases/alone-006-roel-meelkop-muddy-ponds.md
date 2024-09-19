@@ -22,6 +22,6 @@ Muddy Ponds is a pretty uncommon work, unlike any of his former releases. The co
 • handwritten number.\
 • Only 40 copies!
 
-\-———- 
+///
 
 Roel Meelkop is a sound artist from Rotterdam, whose musical activities go back to the early eighties. He is more concerned with structure, dynamics and timbre than with tonality and rhythm. His work is often described as nuanced, dynamical and sculptural.
