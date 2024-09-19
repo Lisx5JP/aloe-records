@@ -119,6 +119,26 @@
     {{ end }}
   </ul>
 
+  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "tour" ) }}
+  <strong style="padding-top: 16px; display: block;">Tour</strong>
+  {{ end }}
+
+  <ul class="blog-posts">
+    {{ range where (where .Pages "Section" "events") "Params.series" "==" "tour" }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ else }}
+    {{ end }}
+  </ul>
+
   {{ if .Data.Singular }}
   {{else}}
     <small>
