@@ -3,13 +3,13 @@ title: Aloe on-site 16
 slug: "0921"
 date: 2024-08-24
 series: on-site
-description: Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing
+description: Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing, Yyed
 ---
 ![](/images/uploads/on-site-16.jpg)
 
 September 21, 2024 at Xiaoye space, Beijing
 
-Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing
+Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing, Yyed
 
 15:00 open｜15:30 start｜door: 60-100rmb
 
@@ -26,3 +26,5 @@ Jun-Y Ciao, Matthias Kaiser+Jun-Y Ciao, Li He, Yu Liujing
 **于刘晶**，最近在练习react to the sound that you get back
 
 **李和**，进行不同媒介的创作实验，吉他和电脑是他比较常用的音乐道具，有时也在现场使用打击乐和各种电子设备。听：https://lihe.bandcamp.com/｜看：http://www.youtube.com/@lihe.｜微信视频号：李和LiHe
+
+**Yyed**，长期专注于错误的实地录音和声波的反向操作，Yyed 一直试图将ta们的触角延伸到音乐文化之外。在参与了斯德哥尔摩和柏林的音乐场景之后，ta们现在定居波恩，用非常规的声音描绘ta们的灵感和经历:日常生活中微小琐碎的细节；针一样刺穿神经的寂静；还有怎么在周围杂乱的色调和以太中摸到沼泽。
