@@ -60,4 +60,4 @@ Ming room, Shanghai
 
 ///
 
-[Tom Soloveitzik](https://www.tomsoloveitzik.net/) is an Israeli musician and artist based in Tokyo. He works with the materiality of sound, the practice of listening, and the potentiality of recording \[a ‘field’] through performance and writing.
+**[Tom Soloveitzik](https://www.tomsoloveitzik.net/)** is an Israeli musician and artist based in Tokyo. He works with the materiality of sound, the practice of listening, and the potentiality of recording \[a ‘field’] through performance and writing.
