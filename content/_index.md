@@ -1,6 +1,6 @@
 ## About Aloe News
 
-**New pre-order!**
+**Release now!**
 
 [Alone-009: Sun Yizhou - typewriter in the rain](https://aloerecords.bandcamp.com/album/typewriter-in-the-rain)[](https://aloerecords.bandcamp.com/album/cymbals-and-night)[](https://aloerecords.bandcamp.com/album/dzan-puku)[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
