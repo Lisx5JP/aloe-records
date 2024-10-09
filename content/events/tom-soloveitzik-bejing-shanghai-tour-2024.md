@@ -22,7 +22,7 @@ March 26, 2024
 
 Sun Yizhou+Tom Soloveitzik, Liu Zifeng, Ri Chang
 
-Aloe on-site#8
+[Aloe on-site#8](https://aloerecords.com/events/031224/)
 
 Xiaoye space, Beijing
 
