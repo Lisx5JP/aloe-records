@@ -22,15 +22,17 @@ March 26, 2024
 
 Sun Yizhou+Tom Soloveitzik, Liu Zifeng, Ri Chang
 
-Aloe on-site 8
-
-/
+Aloe on-site#8
 
 Xiaoye space, Beijing
+
+/
 
 March 29, 2024
 
 Zhu Wenbo+Tom Soloveitzik, Zhao Cong++Tom Soloveitzik, Ake+John Wilton
+
+Zoomin' Night
 
 fRUITYSPACE, Beijing
 
@@ -40,7 +42,7 @@ March 30, 2024
 
 Tom Soloveitzik, Platypus Improvisation Committee
 
-miji concert 78
+miji concert#78
 
 studio h, Beijing
 
@@ -50,10 +52,10 @@ April 3, 2024
 
 Sun Yizhou+Zhao Ziyi, Tom Soloveitzik, Zhu Songjie, Yifan + Jia Xiao, Adi + Tao Yi
 
+Turtle Tone#8
+
 Ming room, Shanghai
 
 ///
 
-[Tom Soloveitzik](https://www.tomsoloveitzik.net/) is an Israeli musician and artist based in Tokyo. He works with the materiality of sound, the practice of listening, and the potentiality of recording \[a ‘field’] through performance and writing. 
-
-///
+[Tom Soloveitzik](https://www.tomsoloveitzik.net/) is an Israeli musician and artist based in Tokyo. He works with the materiality of sound, the practice of listening, and the potentiality of recording \[a ‘field’] through performance and writing.
