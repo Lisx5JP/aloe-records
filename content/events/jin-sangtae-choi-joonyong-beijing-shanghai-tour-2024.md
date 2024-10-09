@@ -59,9 +59,9 @@ trigger, Shanghai
 
 was Born in Seoul, South Korea, this individual has been active as a composer and performer since 2004, after deciding to change their musical direction and draw inspiration from noise and improvisational music. Based on experiences with objects and space, he has been reconstructing materials not typically considered as musical instruments in their unique way. Among these, the hard drives which he discovered while working at the Seoul electronics market, have become his signature instrument. Combined and expanded with synthesizers, it has undergone various modifications, and recently, he has been experimenting with audiovisual performances that incorporate light, shadow, and reflection. Furthermore, since 2015, he has been continuing the work of releasing a 1-minute recording daily under the project <Y.ear>, and he has been active as an audiovisual duo called 'Joongganja' (meaning 'meson') with visual artist Inkyung Kim since 2019.
 
-
-
 As an organizer, He founded and operated 'dotolim' the first domestic venue dedicated to improvised/experimental music in 2008. Since then, In 2012, 2013, and 2017, he also organised 'dotolimpic,' the improvised/experimental music festival.
+
+website: https://popmusic25.com/
 
 /
 
