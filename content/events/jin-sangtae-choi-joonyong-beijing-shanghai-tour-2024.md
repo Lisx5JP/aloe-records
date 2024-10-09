@@ -5,9 +5,7 @@ date: 2024-04-09
 series: tour
 description: “即兴四分之二” 将要访问北京了，也是他们第一次来中国。我相信和北京实验音乐场景有很多共同点。我们会在12-13号表演三场活动，不知道他们会带来什么。很期待。
 ---
-![](/images/uploads/jin-sangtae-choi-joonyong-china-tour1.jpg)
-
-![](/images/uploads/jin-sangtae-choi-joonyong-china-tour2.jpg)
+![](/images/uploads/joonyong_sangtae_2024.jpg)
 
 `Poster by Zhang Cai`
 
