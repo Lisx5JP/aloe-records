@@ -10,6 +10,8 @@ description: Tom Soloveitzik 2024 Bejing Shanghai Tour was curated by Aloe
 
 `Poster by Zhang Cai`
 
+Tom Soloveitzik 2024 北京上海巡演由 芦荟唱片、撒把芥末、燥眠夜、龜音 共同策划。
+
 Tom Soloveitzik 2024 Bejing Shanghai Tour was curated by Aloe Records, Sub Jam, Zoomin' Night, and Turtle Tone.
 
 ///
