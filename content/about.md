@@ -4,7 +4,7 @@ menu: main
 ---
 # Aloe Records
 
-Aloe Records (芦荟唱片)  a Beijing-based limited edition publishing label. Focusing primarily on electro-acoustic improvisation, experimental composition, post-2000 improvised music, conceptual sound works, and more radical or obscure sound practices. Run by Sun Yizhou since 2022. In 2024, Zhang Cai joined Aloe Records. 
+Aloe Records (芦荟唱片)  a Beijing-based limited edition publishing label. Focusing primarily on electro-acoustic improvisation, experimental composition, post-2000 improvised music, conceptual sound works, and more radical or obscure sound practices. Run by [Sun Yizhou](https://sunyizhou.org/) since 2022. In 2024, Zhang Cai joined Aloe Records. 
 
 It is currently self-operated and its publications are not limited to any medium. The aim is to gradually build an international network for contemporary musicians and sound artists, conceptual artists, media artists and performance artists.
 
