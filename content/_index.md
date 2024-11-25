@@ -8,7 +8,7 @@
 
 **Next event:**
 
-![](/images/uploads/on-site-16.jpg)
+![](/images/uploads/poster-small-format.jpg)
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
