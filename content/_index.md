@@ -1,8 +1,10 @@
 ## About Aloe News
 
-**Release now!**
+**Next release:** 
 
-[Alone-009: Sun Yizhou - typewriter in the rain](https://aloerecords.bandcamp.com/album/typewriter-in-the-rain)[](https://aloerecords.bandcamp.com/album/cymbals-and-night)[](https://aloerecords.bandcamp.com/album/dzan-puku)[](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
+Alone-010: Zhu Songjie - Electroacoustic Blues
+
+Alone-011: tom soloveitzik - 麻布 diaries
 
 - - -
 
