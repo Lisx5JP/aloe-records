@@ -3,7 +3,7 @@
   {{ if .Data.Singular }}
   <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
   <small>
-    <a href="{{ "/blog" | relURL }}">Remove filter</a>
+    <a href="{{ " /blog" | relURL }}">Remove filter</a>
   </small>
   {{ end }}
 
@@ -99,6 +99,26 @@
     {{ end }}
   </ul>
 
+  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "intervals" ) }}
+  <strong style="padding-top: 16px; display: block;">Intervals</strong>
+  {{ end }}
+
+  <ul class="blog-posts">
+    {{ range where (where .Pages "Section" "events") "Params.series" "==" "intervals" }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ else }}
+    {{ end }}
+  </ul>
+
   {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "workshop" ) }}
   <strong style="padding-top: 16px; display: block;">Workshop</strong>
   {{ end }}
@@ -141,13 +161,13 @@
 
   {{ if .Data.Singular }}
   {{else}}
-    <small>
-      <div>
-        {{ range .Site.Taxonomies.tags }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
-      </div>
-    </small>
-    {{ end }}
+  <small>
+    <div>
+      {{ range .Site.Taxonomies.tags }}
+      <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+      {{ end }}
+    </div>
+  </small>
+  {{ end }}
 </content>
 {{ end }}
