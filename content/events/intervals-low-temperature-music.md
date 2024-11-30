@@ -2,7 +2,7 @@
 title: "intervals: low-temperature music"
 slug: "1207"
 date: 2024-11-30
-series: Intervals
+series: intervals
 description: |-
   December 7, 2024 (Sun) 19:30 Start
   Goethe-Institut China (798)
