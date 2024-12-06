@@ -2,9 +2,9 @@
 
 **Next release:** 
 
-Alone-010: Zhu Songjie - Electroacoustic Blues
+[Alone-010: Zhu Songjie - Electroacoustic Blues](https://aloerecords.bandcamp.com/album/electroacoustic-blues)
 
-Alone-011: tom soloveitzik - 麻布 diaries
+[Alone-011: tom soloveitzik - 麻布 diaries](https://aloerecords.bandcamp.com/album/diaries)
 
 - - -
 
