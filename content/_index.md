@@ -1,6 +1,6 @@
 ## About Aloe News
 
-**Next release:** 
+**winter new release:** 
 
 [Alone-010: Zhu Songjie - Electroacoustic Blues](https://aloerecords.bandcamp.com/album/electroacoustic-blues)
 
@@ -8,7 +8,7 @@
 
 - - -
 
-**Next event:**
+**next event:**
 
 ![](/images/uploads/poster-small-format.jpg)
 
@@ -16,7 +16,7 @@
 
 - - -
 
-**Distribution:**
+**distribution:**
 
 [Soundohm](https://www.soundohm.com/label/aloe-records) (Italy)[](https://subjam.org/)[](https://subjam.org/)
 
@@ -33,7 +33,3 @@
 [Portal](https://www.instagram.com/portal_canton/) (CN) 
 
 - - -
-
-## About Aloe
-
-Aloe is a plant that grows in subtropics and tropics, with long-pointed leaves, spiny edges, and thick, juicy interior. Aloe is kept in many Chinese homes (like mine) for ornamental and herbal medicine use.
