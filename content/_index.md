@@ -8,7 +8,7 @@
 
 - - -
 
-**next event:**
+**past event:**
 
 ![](/images/uploads/poster-small-format.jpg)
 
