@@ -10,7 +10,7 @@
 
 **past event:**
 
-![](/images/uploads/poster-small-format.jpg)
+![](/images/uploads/改out2025大写竖版.jpg)
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)
 
