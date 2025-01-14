@@ -3,8 +3,7 @@ title: Aloe on-site 17
 slug: "0214"
 date: 2025-01-14
 series: on-site
-description: |+
-  Seijiro Murayama, Seijiro Murayama + Yan Jun, Sun Yizhou, Prime
+description: Seijiro Murayama, Seijiro Murayama + Yan Jun, Sun Yizhou, Prime
 ---
 ![](/images/uploads/p.jpg)
 
