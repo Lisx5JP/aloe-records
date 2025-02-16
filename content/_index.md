@@ -8,15 +8,9 @@
 
 - - -
 
-**sun yizhou, zhao cong, zhu wenbo 2025 in Britain and Europe:**
-
-![](/images/uploads/改out2025大写竖版.jpg)
-
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)**next event:**
 
 ![](/images/uploads/seijio.jpg)
-
-
 
 - - -
 
