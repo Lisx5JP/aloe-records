@@ -35,4 +35,6 @@ https://voidblank.com/
 
 **孙一舟** 
 
-使用一或多种错误操作的电器，总是概念的、实时的、矛盾的。最近，human-machine 是他的主要方向。今年，在撒把芥末发行了个人专辑「错过」；在 Ftarri 发行了与 Tom Soloveitzik 的二重奏专辑「轻工业国际公司」；在 Infant Tree 发行了与朱文博的伪二重奏专辑「回应 II」。更多：sunyizhou.org
+使用一或多种错误操作的电器，总是概念的、实时的、矛盾的。最近，如何成为 human-machine 是他的主要方向。今年，在撒把芥末发行了个人专辑「错过」；在 Ftarri 发行了与 Tom Soloveitzik 的二重奏专辑「轻工业国际公司」；在 Infant Tree 发行了与朱文博的伪二重奏专辑「回应 II」。
+
+sunyizhou.org
