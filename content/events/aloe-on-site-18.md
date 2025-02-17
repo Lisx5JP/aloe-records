@@ -7,7 +7,7 @@ description: mind fiber, VKHNC+VAVABOND, PULSECOM+Li Jianhong
 ---
 ![](/images/uploads/18_00.jpg)
 
-February 25, 2025 阿喽小现场 #18
+February 25, 2025 阿喽小现场 #18 @fRUITYSPACE
 
 mind fiber, VKHNC+VAVABOND, PULSECOM+Li Jianhong
 
@@ -21,10 +21,6 @@ mind fiber, VKHNC+VAVABOND, PULSECOM+Li Jianhong
 
 被用作闭路的电源。例如自指、近交、自噬等，其中世界的畸形在那里倍增和放大。他被安排在计算机上写下促进这些电路进步的音响论辩。
 
-
-
-
-
 **Pulsecom**
 
 2019年以来，Pulsecom 一直在经营一个名为 “VOID(0) ”的小型场地，他在那里表演并组织演出。Pulsecom 用他在自己生活中发现的独特变量、振荡和呼吸的原理、结构和过程所创造的振荡来演奏和创作故事。Pulsecom 过去主要使用电脑工作，但最近他开始使用调音台反馈和他自己改装的萨克斯部件。
@@ -33,15 +29,9 @@ https://pulsecom.bandcamp.com/
 
 https://voidblank.com/
 
-
-
-
-
 **VAVABOND**
 
 笔记本即兴乐手，噪音乐手。关注泛在日常，以非线性时间的方法处理加工无意义和碎片性的声响。除个人计划外，也是迷幻噪音乐队“迷走神经”和自由即兴双人组“mind fiber”的成员。
-
-
 
 **李剑鸿**
 
