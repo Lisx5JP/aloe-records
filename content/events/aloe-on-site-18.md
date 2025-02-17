@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 18
-slug: "0217"
-date: 2025-02-17
+slug: "0216"
+date: 2025-02-16
 series: on-site
 description: mind fiber, VKHNC+VAVABOND, PULSECOM+Li Jianhong
 ---
