@@ -9,9 +9,9 @@ description: John Wilton, VKHNC, PULSECOM+Sun Yizhou
 
 February 28, 2025 阿喽小现场 #19 @Xiaoye Space
 
-mind fiber, VKHNC+VAVABOND, PULSECOM+Li Jianhong
+John Wilton, VKHNC, PULSECOM+Sun Yizhou
 
-20:30 open｜ 21:00 start｜door: 80rmb
+19:00 open｜ 19:30 start｜door: 80rmb
 
 信息 / info / https://aloerecords.com/events/
 
