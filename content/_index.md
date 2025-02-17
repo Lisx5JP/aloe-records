@@ -10,7 +10,9 @@
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)**next event:**
 
-![](/images/uploads/seijio.jpg)
+![](/images/uploads/18_00.jpg)
+
+![](/images/uploads/19_00.jpg)
 
 - - -
 
