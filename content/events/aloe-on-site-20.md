@@ -27,7 +27,6 @@ jasonkahn.bandcamp.com
 
 
 凯文·科尔科兰（Kevin Corcoran）是一名打击乐手，也是一枚和声音合作的艺术家 / 和一位使用声音工作的艺术家。他用拾得物，和对纹理、摩擦、共振、长音等技术的强调，去扩展鼓的声响范围。并通过特定地点录音、各种放大手段和反馈来增强这些声音。即兴与合作是他创作的关键。凯文曾在美国、墨西哥、欧洲和东亚的一些城市与很多乐手、舞者、视觉艺术家和导演一起演出。2025年是他第二次访问北京。
-
 www.kevincorcoran.net
 
 [editionstympanum.bandcamp.com](http://editionstympanum.bandcamp.com)
