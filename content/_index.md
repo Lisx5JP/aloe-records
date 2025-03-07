@@ -1,10 +1,10 @@
 ## About Aloe News
 
-**winter new release:** 
+**next release:** 
 
-[Alone-010: Zhu Songjie - Electroacoustic Blues](https://aloerecords.bandcamp.com/album/electroacoustic-blues)
+Alone-012: Choi Joonyong - paper-gore
 
-[Alone-011: tom soloveitzik - 麻布 diaries](https://aloerecords.bandcamp.com/album/diaries)
+Alone-013: Zhu Wenbo -  read Fat City lyrics
 
 - - -
 
