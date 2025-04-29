@@ -10,7 +10,7 @@ Alone-013: Zhu Wenbo -  read Fat City lyrics
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)**next event:**
 
-![](/images/uploads/aloe_20.jpg)
+![](/images/uploads/on-site-21.jpg)
 
 - - -
 
