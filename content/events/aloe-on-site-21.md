@@ -12,7 +12,7 @@ May 10, 2025 阿喽小现场 #21 @Xiaoye Space
 
 Ryu Hankil, Yan Jun, ''Description / Space'' (Composition by Li Weisi, Performed by Dong Xing, Liu lu, Sun Yizhou) 
 
-Aloe on-site 21 19:00 open｜ 19:30 start｜door: 80rmb 
+19:00 open｜ 19:30 start｜door: 80rmb 
 
 信息 / info / [https://aloerecords.com/events/](<>)
 
