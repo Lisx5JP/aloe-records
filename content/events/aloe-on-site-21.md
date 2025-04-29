@@ -4,13 +4,13 @@ slug: "0510"
 date: 2025-04-29
 series: on-site
 description: "Ryu Hankil, Yan Jun, ''Description / Space'' (Composition by Li
-  Weisi, Performed by Dong Xing, Liu lu, Sun Yizhou) "
+  Weisi, Performed by Dong Xing, Liu Lu, Sun Yizhou) "
 ---
 ![](/images/uploads/on-site-21.jpg)
 
 May 10, 2025 阿喽小现场 #21 @Xiaoye Space 
 
-Ryu Hankil, Yan Jun, ''Description / Space'' (Composition by Li Weisi, Performed by Dong Xing, Liu lu, Sun Yizhou) 
+Ryu Hankil, Yan Jun, ''Description / Space'' (Composition by Li Weisi, Performed by Dong Xing, Liu Lu, Sun Yizhou) 
 
 19:00 open｜ 19:30 start｜door: 80rmb 
 
