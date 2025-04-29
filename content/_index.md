@@ -4,7 +4,7 @@
 
 Alone-012: Choi Joonyong - paper-gore
 
-Alone-013: Zhu Wenbo -  read Fat City lyrics
+[Alone-013: Zhu Wenbo -  read Fat City lyrics](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
 
 - - -
 
