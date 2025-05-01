@@ -2,9 +2,9 @@
 
 **next release:** 
 
-Alone-012: Choi Joonyong - paper-gore
+Alone-012: Choi Joonyong - Paper-Gore
 
-[Alone-013: Zhu Wenbo -  read Fat City lyrics](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
+[Alone-013: Zhu Wenbo -  Read Fat City Lyrics](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
 
 - - -
 
