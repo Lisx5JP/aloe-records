@@ -1,8 +1,8 @@
 ## About Aloe News
 
-**next release:** 
+**release now:** 
 
-Alone-012: Choi Joonyong - Paper-Gore
+[Alone-012: Choi Joonyong - Paper-Gore](https://aloerecords.bandcamp.com/album/paper-gore)
 
 [Alone-013: Zhu Wenbo -  Read Fat City Lyrics](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
 
