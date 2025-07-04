@@ -10,7 +10,7 @@
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)**next event:**
 
-![](/images/uploads/on-site-21.jpg)
+![](/images/uploads/on-site-22.png)
 
 - - -
 
