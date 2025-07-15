@@ -1,5 +1,5 @@
 ---
-title: Aloe on-site 23
+title: Aloe on-site 22
 slug: "0711"
 date: 2025-07-04
 series: on-site
