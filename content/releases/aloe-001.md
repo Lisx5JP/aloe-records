@@ -39,3 +39,13 @@ The first piece is more about frequencies, overtones and resonances. It is a bit
 Op. 2 is more about pitch and rhythm, like an orchestra in a very simplified but classical way... with just the concertmaster and the rest. The main idea is to see what happens when a noisy/non-continuous sounding instrument like the pedal cymbal is used as a "lead instrument". So we arranged 4 metronomes of different pitches and rates to play together with variable pedal cymbal. [](<>)
 
 releases May 5, 2023
+
+![](/images/uploads/l1126219.jpg)
+
+• Eco-friendly recycled art papergsmr, home laser printed, hand cut.
+
+• With movable-type on the front cover, each copy different.
+
+• Electroplating process cassette and bandcamp download code.
+
+• Handwritten number, only 60 copies!
