@@ -7,7 +7,7 @@ description: Lekasky, Max Eilbacher, Ake+Yan Jun
 ---
 ![](/images/uploads/on-site-23.png)
 
-[](<>)July 27, 2025 阿喽小现场 #23 @Xiaoye Space
+[](<>)July 19, 2025 阿喽小现场 #23 @Xiaoye Space
 
 Lekasky, Max Eilbacher, Ake+Yan Jun
 
