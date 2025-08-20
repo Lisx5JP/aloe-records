@@ -7,7 +7,7 @@ description: Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
 ---
 ![](/images/uploads/on-site-24.png)
 
-[](<>)[](<>)[](<>)August 19, 2025 阿喽小现场 #24 @Xiaoye Space
+[](<>)[](<>)[](<>)August 27, 2025 阿喽小现场 #24 @Xiaoye Space
 
 Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
 
@@ -19,8 +19,6 @@ Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
 
 **乐手介绍：**
 
-
-
 Taku Unami（宇波拓）
 
 自上世纪末以来，他一直活跃于轻松音乐与概念表演之间的边缘地带，为众多电影和戏剧作品创作音乐，并作为声音工程师参与了许多其他作品的制作。
@@ -31,15 +29,11 @@ Taku Unami（宇波拓）
 
 erstwhilerecords.bandcamp.com/album/bot-box-boxes
 
-
-
 Pablo Picco（巴勃罗·皮科）
 
 阿根廷艺术家 Pablo Picco 使用艺名 Bardo Todol 进行音乐创作。他的音乐中混合着各种具体音乐元素，使用磁带、笛子、田野录音、噪音以及声学元素进行创作。这些声音的拼贴多是历经多年积累，在遥远而孤独的夜晚经由无数次即兴创作最终编辑而成：它们带有“自然”或“印象派”的感觉，像是从扬声器里散发出铁的味道，是一种全新的声色之境。2024年他在中国的实验音乐厂牌“燥眠夜”出版磁带《只有一首伤心的歌缠绕在我的吉他上》，这是一次对阿根廷电台声音的收集与拼贴。同时，他也是一位视觉艺术家，他的专辑封面都是他自己的拼贴创作作品。
 
 bardotodolmonofonia.bandcamp.com
-
-
 
 颜峻
 
