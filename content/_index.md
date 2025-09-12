@@ -1,10 +1,12 @@
 ## About Aloe News
 
-**release now:** 
+**coming soon:** [](https://aloerecords.bandcamp.com/album/paper-gore)[](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
 
-[Alone-012: Choi Joonyong - Paper-Gore](https://aloerecords.bandcamp.com/album/paper-gore)
+Jin Sangtae / Takahiro Kawaguchi - Redox (Aloe-005)
 
-[Alone-013: Zhu Wenbo -  Read Fat City Lyrics](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
+Zhao Cong / Kevin Corcoran - -1 outside / 24 inside (Aloe-006)
+
+Ian Douglas-Moore / Dominic Coles / Eric Wong - under under hill (Aloes-001)
 
 - - -
 
