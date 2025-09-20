@@ -9,7 +9,7 @@ description: Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
 
 [](<>)[](<>)[](<>)August 27, 2025 阿喽小现场 #24 @Xiaoye Space
 
-Zhao Cong, Antti Tolvi, Antti Tolvi+Sun Yizhou
+Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
 
 19:00 open｜ 19:30 start｜door: 60rmb
 
