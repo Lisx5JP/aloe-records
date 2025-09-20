@@ -5,7 +5,7 @@ date: 2025-09-20
 series: on-site
 description: Zhao Cong, Antti Tolvi, Antti Tolvi+Sun Yizhou
 ---
-
+![](/images/uploads/on-site-25.jpg)
 
 October 1, 2025 阿喽小现场 #25 @Xiaoye Space
 
