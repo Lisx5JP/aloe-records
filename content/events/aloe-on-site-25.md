@@ -5,8 +5,6 @@ date: 2025-09-20
 series: on-site
 description: Zhao Cong, MAI mai, Antti Tolvi, Antti Tolvi+Sun Yizhou
 ---
-
-
 ![](/images/uploads/25_2.jpg)
 
 October 1, 2025 阿喽小现场 #25 @Xiaoye Space
@@ -21,7 +19,9 @@ Zhao Cong, MAI mai, Antti Tolvi, Antti Tolvi+Sun Yizhou
 
 **乐手介绍：**
 
-Antti Tolvi（安蒂·托尔维）安蒂·托尔维（Antti Tolvi，1977年生）是芬兰图尔库的作曲家、声音艺术家及表演者。自2002年起，他始终是芬兰实验音乐领域最具影响力的代表人物之一。安蒂已在三大洲举办逾400场演出，并发行16张个人专辑。自2016年起，他举办了超过20场个人展览（美术馆 / 画廊），并参与众多群展。策划艺术活动与音乐节亦是其艺术实践的重要组成部分，例如自2014年起创办的基兰声音艺术节（Kiilan Äänipäivät）。 
+Antti Tolvi（安蒂·托尔维）
+
+安蒂·托尔维（Antti Tolvi，1977年生）是芬兰图尔库的作曲家、声音艺术家及表演者。自2002年起，他始终是芬兰实验音乐领域最具影响力的代表人物之一。安蒂已在三大洲举办逾400场演出，并发行16张个人专辑。自2016年起，他举办了超过20场个人展览（美术馆 / 画廊），并参与众多群展。策划艺术活动与音乐节亦是其艺术实践的重要组成部分，例如自2014年起创办的基兰声音艺术节（Kiilan Äänipäivät）。 
 
 anttitolvi.com
 
