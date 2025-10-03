@@ -12,7 +12,7 @@ Ian Douglas-Moore / Dominic Coles / Eric Wong - *[under under hill](https://aloe
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)**next event:**
 
-![](/images/uploads/25_2.jpg)
+
 
 ![](/images/uploads/sun-yizhou-s-autumn-tour.jpg)
 
