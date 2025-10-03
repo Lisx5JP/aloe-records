@@ -1,6 +1,6 @@
 ## About Aloe News
 
-**coming soon:** [](https://aloerecords.bandcamp.com/album/paper-gore)[](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
+**out now:** [](https://aloerecords.bandcamp.com/album/paper-gore)[](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
 
 Jin Sangtae / Takahiro Kawaguchi - *[Redox](https://aloerecords.bandcamp.com/album/redox)* (Aloe-005)
 
@@ -12,11 +12,9 @@ Ian Douglas-Moore / Dominic Coles / Eric Wong - *[under under hill](https://aloe
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)**next event:**
 
-![](/images/uploads/25_2.jpg)
+
 
 ![](/images/uploads/sun-yizhou-s-autumn-tour.jpg)
-
-
 
 - - -
 
