@@ -20,4 +20,6 @@ Ian Douglas-Moore / Dominic Coles / Eric Wong - *[under under hill](https://aloe
 
 [a-musik](https://www.a-musik.com/label/aloe-records.html) (Köln)
 
+[Tobira Records](https://tobirarecords.com/collections/aloe) (Hyogo)
+
 - - -
