@@ -27,6 +27,26 @@
     {{ end }}
   </ul>
 
+  {{ range first 1 (where (where .Pages "Section" "releases") "Params.series" "==" "Aloes" ) }}
+  <strong style="padding-top: 16px; display: block;">Aloes series</strong>
+  {{ end }}
+
+  <ul class="blog-posts">
+    {{ range where (where .Pages "Section" "releases") "Params.series" "==" "Aloes" }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ else }}
+    {{ end }}
+  </ul>
+
   {{ range first 1 (where (where .Pages "Section" "releases") "Params.series" "==" "Alone" ) }}
   <strong style="display: block;">Alone series</strong>
   {{ end }}
