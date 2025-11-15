@@ -8,6 +8,8 @@ Zhao Cong / Kevin Corcoran - *[\-1 outside / 24 inside](https://aloerecords.band
 
 Ian Douglas-Moore / Dominic Coles / Eric Wong - *[under under hill](https://aloerecords.bandcamp.com/album/under-under-hill)* (Aloes-001)
 
+![](/images/uploads/三张组合价_1.jpg)
+
 - - -
 
 [](https://aloerecords.bandcamp.com/album/muddy-ponds)[](https://aloerecords.bandcamp.com/album/muddy-ponds)**next event:**
