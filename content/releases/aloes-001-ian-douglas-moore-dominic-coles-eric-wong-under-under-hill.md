@@ -3,12 +3,17 @@ title: "Aloes-001: Ian Douglas-Moore / Dominic Coles / Eric Wong - under under h
 slug: aloes-001
 date: 2025-11-15
 series: Aloes
-description: Each track carries a distinct fragrance—long-lasting, crisp, and
+description: An exquisite collection explores resonance and psychoacoustic
+  experiences, achieving remarkable harmony through the interplay of prepared
+  electric guitar, digital signals from laptop, and Bluetooth speakers within
+  the space. Each track carries a distinct fragrance—long-lasting, crisp, and
   refreshing, with a hint of lightness and sweetness.
 ---
 ![](/images/uploads/cover_2.jpg)
 
 Aloes' trio/group series is excited to present its debut album 'under under hill': An exquisite collection explores resonance and psychoacoustic experiences, achieving remarkable harmony through the interplay of prepared electric guitar, digital signals from laptop, and Bluetooth speakers within the space. Each track carries a distinct fragrance—long-lasting, crisp, and refreshing, with a hint of lightness and sweetness.
+
+{{< bandcamp id="3278638669" layout="medium" >}}
 
 ![](/images/uploads/aloes-001-under-under-hill.jpg)
 
