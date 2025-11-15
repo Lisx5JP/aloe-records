@@ -13,6 +13,8 @@ description: What can be revealed is that, Kawaguchi use dripping water from
 ---
 ![](/images/uploads/cover_2.png)
 
+{{< bandcamp id="1157094596 " layout="medium" >}}
+
 This album originated from Takahiro Kawaguchi's short visit to Seoul last year, where he held recording sessions at dotolim, Seoul's historic experimental music venue. What can be revealed is that, Kawaguchi use dripping water from suspended infusion containers onto a smartphone running a music application, producing unpredictable sounds. In addition to this, Jin has developed his latest hard drive system, a personalized system of acoustic/electronic percussion -- equally full of unpredictability. The two artists' semi-automated systems share distinct roles, functioning like two band members.
 
 ![](/images/uploads/aloe-005-redox-氧化还原.jpg)
