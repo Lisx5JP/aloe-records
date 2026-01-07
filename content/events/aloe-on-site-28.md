@@ -11,7 +11,7 @@ description: Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė
 
 **Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė**
 
-**on-site#28 @Xiaoye Space (小野空间)** 
+**on-site#28 @Xiaoye Space, Beijing**
 
 ///
 
