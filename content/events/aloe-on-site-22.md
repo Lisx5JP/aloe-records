@@ -11,7 +11,7 @@ description: Torcal, Zhao Ziyi, Franki Wals + Sun Yizhou
 
 **Torcal, Zhao Ziyi, Franki Wals + Sun Yizhou**
 
-**[](https://aloerecords.com/events/0510/)on-site #24 @Xiaoye Space, Beijing**
+[](https://aloerecords.com/events/0510/)**on-site #24 @Xiaoye Space, Beijing**
 
 ///
 
@@ -26,6 +26,8 @@ description: Torcal, Zhao Ziyi, Franki Wals + Sun Yizhou
 平白的声音和难用的身体，多数时候好像不太在意。
 
 独自的，简单的，不动的，自伤的。
+
+*zhaoziyi2023.bandcamp.com/album/trip-is-not-so-sure*
 
 **弗兰基-瓦尔斯（Franki Wals）**
 
