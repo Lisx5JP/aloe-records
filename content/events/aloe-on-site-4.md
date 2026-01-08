@@ -11,7 +11,7 @@ description: VAVABOND, Li Jianhong, Zhu Wenbo, Sun Yizhou, Zhao Cong
 
 **VAVABOND, Li Jianhong, Zhu Wenbo, Sun Yizhou, Zhao Cong**
 
-**on-site #4 藏住空间, Beijing**
+**on-site #4 @Cangzhu Space, Beijing**
 
 ///
 
