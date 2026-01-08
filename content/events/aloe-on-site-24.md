@@ -18,7 +18,7 @@ description: Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
 
 自上世纪末以来，他一直活跃于轻松音乐与概念表演之间的边缘地带，为众多电影和戏剧作品创作音乐，并作为声音工程师参与了许多其他作品的制作。
 
-近期作品：纸张与纸板即兴独奏创作「*bot box boxes*」（Erstwhile 2023）；与 Sarah Hennies、Nikos Veliotis 及 David Grubbs 的合作「*bitterviper*」（Blue Chopsticks 2025）
+近期作品：纸张与纸板即兴独奏创作「bot box boxes」（Erstwhile 2023）；与 Sarah Hennies、Nikos Veliotis 及 David Grubbs 的合作「bitterviper」（Blue Chopsticks 2025）
 
 *erstwhilerecords.bandcamp.com/album/bot-box-boxes*
 
