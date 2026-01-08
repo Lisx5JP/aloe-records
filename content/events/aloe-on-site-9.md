@@ -3,16 +3,16 @@ title: " Aloe on-site 9"
 slug: "120424"
 date: 2024-04-12
 series: on-site
-description: |+
+description: |
   Sun Yizhou, Jin Sangtae, Zhu Wenbo + Zhao Cong, Yan Jun + Choi Joonyong
 ---
 ![](/images/uploads/on-site-9.jpg)
 
-**2024年4月12日(五) at fRUITYSPACE** 
-
-**20:30 open｜21:00 start｜door: 100元**
+**9:00 PM, April 12, 2024**
 
 **Sun Yizhou, Jin Sangtae, Zhu Wenbo + Zhao Cong, Yan Jun + Choi Joonyong**
+
+**on-site #9 @fRUITYSPACE , Beijing**
 
 ///
 
@@ -42,7 +42,9 @@ description: |+
 
 **朱文博**
 
-住在北京。他参与很多的音乐探索与实践，比如电子原声音乐，磁带音乐，原声乐器的演奏，即兴，作曲，歌曲创作，出版发行…… 朱文博运作实验音乐厂牌“燥眠夜”，组织很小的演出（自2009年开始），出版磁带（自2015年开始）。通过一些跨地域合作，燥眠夜将一些少为人知的音乐实践探索记录带入到其它领域的听众视野中。*zhuwenbo.bandcamp.com*
+住在北京。他参与很多的音乐探索与实践，比如电子原声音乐，磁带音乐，原声乐器的演奏，即兴，作曲，歌曲创作，出版发行…… 朱文博运作实验音乐厂牌“燥眠夜”，组织很小的演出（自2009年开始），出版磁带（自2015年开始）。通过一些跨地域合作，燥眠夜将一些少为人知的音乐实践探索记录带入到其它领域的听众视野中。
+
+*zhuwenbo.bandcamp.com*
 
 **孙一舟**
 
