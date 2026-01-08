@@ -3,13 +3,13 @@ title: Aloe on-site 24
 slug: "270825"
 date: 2025-08-18
 series: on-site
-description: Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
+description: Sun Yizhou, Pablo Picco, Taku Unami + Yan Jun
 ---
 ![](/images/uploads/on-site-24.png)
 
 **7:30 PM, August 27, 2025**
 
-**Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun**
+**Sun Yizhou, Pablo Picco, Taku Unami + Yan Jun**
 
 **on-site #24 @Xiaoye Space, Beijing**
 ///
