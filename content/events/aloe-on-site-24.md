@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 24
 slug: "270825"
-date: 2025-08-18
+date: 2025-08-27
 series: on-site
 description: Sun Yizhou, Pablo Picco, Taku Unami + Yan Jun
 ---
