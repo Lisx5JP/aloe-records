@@ -3,14 +3,14 @@ title: Aloe on-site 26
 slug: "281025"
 date: 2025-10-26
 series: on-site
-description: Paolo Gàiba Riva, Paolo Gàiba Riva+Zhu Wenbo, Sun Yizhou play
-  Stefan Thut’s composition
+description: Paolo Gàiba Riva, Paolo Gàiba Riva+Zhu Wenbo, Stefan Thut’s
+  composition (play by Sun Yizhou)
 ---
 ![](/images/uploads/on-site-26.jpg)
 
 **7:30 PM, October 28, 2025** 
 
-**Paolo Gàiba Riva, Paolo Gàiba Riva+Zhu Wenbo, Sun Yizhou play Stefan Thut’s composition[](<>)**
+**Paolo Gàiba Riva, Paolo Gàiba Riva+Zhu Wenbo, Stefan Thut’s composition (play by Sun Yizhou)[](<>)**
 
 **on-site #26 @Xiaoye Space, Beijing**
 
