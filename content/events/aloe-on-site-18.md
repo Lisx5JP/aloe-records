@@ -7,7 +7,7 @@ description: mind fiber, VKHNC + VAVABOND, PULSECOM + Li Jianhong
 ---
 ![](/images/uploads/18_00.jpg)
 
-**7:30 PM, February 25, 2025**
+**9:00 PM, February 25, 2025**
 
 **mind fiber, VKHNC + VAVABOND, PULSECOM + Li Jianhong**
 
