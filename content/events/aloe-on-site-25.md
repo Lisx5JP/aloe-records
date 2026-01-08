@@ -3,13 +3,13 @@ title: Aloe on-site 25
 slug: "011025"
 date: 2025-09-20
 series: on-site
-description: Zhao Cong, MAI mai, Antti Tolvi, Antti Tolvi+Sun Yizhou
+description: Zhao Cong, MAI mai, Antti Tolvi, Antti Tolvi + Sun Yizhou
 ---
 ![](/images/uploads/25_2.jpg)
 
 **7:30 PM, October 1, 2025** 
 
-**Zhao Cong, MAI mai, Antti Tolvi, Antti Tolvi+Sun Yizhou**
+**Zhao Cong, MAI mai, Antti Tolvi, Antti Tolvi + Sun Yizhou**
 
 **on-site #25 @Xiaoye Space, Beijing**
 
