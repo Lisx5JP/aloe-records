@@ -1,5 +1,5 @@
 ---
-title: " Aloe on-site 8"
+title: Aloe on-site 8
 slug: "260324"
 date: 2024-03-26
 series: on-site
