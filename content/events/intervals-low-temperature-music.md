@@ -1,11 +1,9 @@
 ---
-title: "intervals: low-temperature music"
-slug: "1207"
-date: 2024-11-30
+title: "intervals 1: low-temperature music"
+slug: "071224"
+date: 2024-12-07
 series: intervals
-description: |-
-  December 7, 2024 (Sun) 19:30 Start
-  Goethe-Institut China (798)
+description: Sun Yizhou+Liu Zifeng, Makoto Oshiro
 ---
 ![](/images/uploads/poster-small-format.jpg)
 
