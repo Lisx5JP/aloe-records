@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 19
 slug: "180225"
-date: 2025-02-17
+date: 2025-02-18
 series: on-site
 description: John Wilton, VKHNC, PULSECOM + Sun Yizhou
 ---
