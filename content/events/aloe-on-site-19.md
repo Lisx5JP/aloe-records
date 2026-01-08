@@ -9,7 +9,7 @@ description: John Wilton, VKHNC, PULSECOM + Sun Yizhou
 
 **7:30 PM, February 28, 2025**
 
-**John Wilton, VKHNC, PULSECOM+Sun Yizhou**
+**John Wilton, VKHNC, PULSECOM + Sun Yizhou**
 
 **on-site #19 @Xiaoye Space, Beijing**
 
