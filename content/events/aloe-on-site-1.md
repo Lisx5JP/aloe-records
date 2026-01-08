@@ -5,22 +5,35 @@ date: 2023-05-20T08:36:32.536Z
 series: on-site
 tags:
   - ""
-description: "**Inside Xibianmen Small Park Ruins of Ming City Wall (Xibianmen
-  Section), Xicheng District, Beijing**"
+description: Mu, Zhao Ziyi, Noah Ophoven-Baldwin（play by Zhu Wenbo, Sun Yizhou,
+  John Wilton) Cornelius Cardew（play by Zhao Cong, Zhao Ziyi, Shuoxin Tan, John
+  Wilton, Wang Mengfan）
 ---
 ![](/images/uploads/alove2.jpg)
 
-> Poster Design: Sun Yizhou
+**3:30 PM, May 20, 2023**
 
-**May 20, 2023 from 15:30pm**
+**Mu, Zhao Ziyi, Noah Ophoven-Baldwin’s composition  (play by Zhu Wenbo, Sun Yizhou, John Wilton) Cornelius Cardew’s composition （play by Zhao Cong, Zhao Ziyi, Shuoxin Tan, John Wilton, Wang Mengfan）**
 
-**Inside Xibianmen Small Park Ruins of Ming City Wall (Xibianmen Section), Xicheng District, Beijing**
+**on-site #1 @Xibianmen Park, Beijing**
 
-**Zhao Ziyi**[《solo》](https://www.youtube.com/watch?v=LLD_RYawfPM&t=4s)
+///
 
-**Mu**[《Tossing the ball》](https://www.youtube.com/watch?v=XFuTThQN5TI&t=246s)
+Zhao Ziyi
 
-**Noah Ophoven-Baldwin**[《The sun or any brightness》](https://www.youtube.com/watch?v=3ZnTYkKuGNc)
+solo
+
+Mu
+
+Tossing the ball
+
+Noah Ophoven-Baldwin
+
+The sun or any brightness
 Performed by Zhu Wenbo, Sun Yizhou, John Wilton
 
-**Cornelius Cardew**[《Treatise》](https://www.youtube.com/watch?v=BUwXcjnKqi0&t=227s)Performed by Zhao Cong, Zhao Ziyi, Shuoxin Tan, John Wilton, Wang Mengfan
+Cornelius Cardew
+
+Treatise
+
+Performed by Zhao Cong, Zhao Ziyi, Shuoxin Tan, John Wilton, Wang Mengfan
