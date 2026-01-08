@@ -11,7 +11,7 @@ description: Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun
 
 **Sun Yizhou, Pablo Picco, Taku Unami+Yan Jun**
 
-[](<>)**on-site #24 @Xiaoye Space, Beijing**
+**on-site #24 @Xiaoye Space, Beijing**
 ///
 
 **宇波拓（Taku Unami）**
