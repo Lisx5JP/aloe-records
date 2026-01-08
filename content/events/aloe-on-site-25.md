@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 25
 slug: "011025"
-date: 2025-09-20
+date: 2025-10-01
 series: on-site
 description: Zhao Cong, MAI mai, Antti Tolvi, Antti Tolvi + Sun Yizhou
 ---
