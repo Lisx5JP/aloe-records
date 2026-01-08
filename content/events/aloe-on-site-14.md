@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 14
 slug: "090924"
-date: 2024-08-22
+date: 2024-09-09
 series: on-site
 description: Zhao Ziyi, Chris Pitsiokos + Yan Jun, Otomo Yoshihide + Zhu Wenbo
 ---
