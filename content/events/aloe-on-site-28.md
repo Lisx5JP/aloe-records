@@ -1,6 +1,6 @@
 ---
 title: Aloe on-site 28
-slug: "012126"
+slug: "0121"
 date: 2026-01-08
 series: on-site
 description: Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė
