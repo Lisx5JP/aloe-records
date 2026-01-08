@@ -1,30 +1,22 @@
 ---
 title: " Aloe on-site 9"
-slug: "0412"
-date: 2024-03-15T05:12:49.057Z
+slug: "120424"
+date: 2024-04-12
 series: on-site
-description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu Wenbo+赵丛 Zhao
-  Cong****颜峻 Yan Jun+崔俊勇 Choi Joonyong**"
+description: |
+  Sun Yizhou, Jin Sangtae, Zhu Wenbo + Zhao Cong, Yan Jun + Choi Joonyong
 ---
 ![](/images/uploads/on-site-9.jpg)
 
-**2024年4月12日(五) at fRUITYSPACE** 
+**9:00 PM, April 12, 2024**
 
-**20:30 open｜21:00 start｜door: 100元**
+**Sun Yizhou, Jin Sangtae, Zhu Wenbo + Zhao Cong, Yan Jun + Choi Joonyong**
 
-**信息 / info / <https://aloerecords.com/events/>**
+**on-site #9 @fRUITYSPACE , Beijing**
 
-**秦相太 Jin Sangtae**
+///
 
-**孙一舟 Sun Yizhou**
-
-**朱文博 Zhu Wenbo+赵丛 Zhao Cong**
-
-**颜峻 Yan Jun+崔俊勇 Choi Joonyong**
-
-**\-----**
-
-**Jin Sangtae (秦相太)**
+**秦相太（Jin Sangtae）**
 
 出生于韩国首尔，自 2004 年决定改变音乐方向，从噪音和即兴音乐中汲取灵感后，便开始以作曲家和乐手的身份活跃在舞台上。
 
@@ -32,26 +24,30 @@ description: "**秦相太 Jin Sangtae****孙一舟 Sun Yizhou****朱文博 Zhu W
 
 作为组织者，他于 2008 年创建并运营了韩国首个即兴/实验音乐专业场地 "dotolim"。此后，在 2012 年、2013 年和 2017 年，他还组织了 "dotolimpic “即兴/实验音乐节。
 
-**Choi Joonyong (崔峻溶)**
+**崔峻溶（Choi Joonyong）**
 
-来自韩国首尔。1996 年，他与 Hong Chulki (洪铁基) 共同创立了韩国首个噪音项目 Astronoise。他对即兴演奏/作曲的控制和失控很感兴趣。
-
-最近，他正致力于以劣质声音/演奏为重点的表演。他曾发行过个人专辑，如利用 CD 播放器故障制作的《DANTHRAX》。2020 年，与 Jin Sangtae 合作的二重奏专辑由 Erstwhile Records 发行。
-
-自 2000 年以来，他一直为一个名为 "Balloon & Needle (气球与针) "的厂牌制作与设计专辑。他还是慢核乐队 "Through the Sloe "和厄运金属乐队 "Vomit & Tear "的成员。
+来自韩国首尔。1996 年，他与 Hong Chulki (洪铁基) 共同创立了韩国首个噪音项目 Astronoise。他对即兴演奏/作曲的控制和失控很感兴趣。最近，他正致力于以劣质声音/演奏为重点的表演。他曾发行过个人专辑，如利用 CD 播放器故障制作的《DANTHRAX》。2020 年，与 Jin Sangtae 合作的二重奏专辑由 Erstwhile Records 发行。自 2000 年以来，他一直为一个名为 "Balloon & Needle (气球与针) "的厂牌制作与设计专辑。他还是慢核乐队 "Through the Sloe "和厄运金属乐队 "Vomit & Tear "的成员。
 
 **颜峻** 
 
-乐手，诗人，住在北京。做实验音乐和即兴音乐。使用噪音、田野录音、身体、概念作为素材。他的作品通常很简单，没有什么技巧，也不像音乐。有时候会去观众家演奏塑料袋。“我希望我是一份田野录音。”详见 [yanjun.org](http://yanjun.org/)
+乐手，诗人，住在北京。做实验音乐和即兴音乐。使用噪音、田野录音、身体、概念作为素材。他的作品通常很简单，没有什么技巧，也不像音乐。有时候会去观众家演奏塑料袋。“我希望我是一份田野录音。”
+
+*yanjun.org*
 
 **赵丛**
 
-自 2016 年开始个人化的即兴音乐演奏。在此之前她在摇滚乐队里弹贝斯。在做即兴音乐的时候，赵丛使用各种日常物件，通过各种麦克风的拾音放大，带来陌生异质的声音。赵丛在北京、东京、蒙特利尔、纽约的实验音乐厂牌出版了一系列独奏与合作专辑。赵丛住在北京。她没有接受过任何常规的或非常规的音乐教育，她的经验都是从日常的实践中发现。[zhaocong.bandcamp.com](zhaocong.bandcamp.com)
+自 2016 年开始个人化的即兴音乐演奏。在此之前她在摇滚乐队里弹贝斯。在做即兴音乐的时候，赵丛使用各种日常物件，通过各种麦克风的拾音放大，带来陌生异质的声音。赵丛在北京、东京、蒙特利尔、纽约的实验音乐厂牌出版了一系列独奏与合作专辑。赵丛住在北京。她没有接受过任何常规的或非常规的音乐教育，她的经验都是从日常的实践中发现。
+
+*zhaocong.bandcamp.com*
 
 **朱文博**
 
-住在北京。他参与很多的音乐探索与实践，比如电子原声音乐，磁带音乐，原声乐器的演奏，即兴，作曲，歌曲创作，出版发行…… 朱文博运作实验音乐厂牌“燥眠夜”，组织很小的演出（自2009年开始），出版磁带（自2015年开始）。通过一些跨地域合作，燥眠夜将一些少为人知的音乐实践探索记录带入到其它领域的听众视野中。[zhuwenbo.bandcamp.com](zhuwenbo.bandcamp.com)
+住在北京。他参与很多的音乐探索与实践，比如电子原声音乐，磁带音乐，原声乐器的演奏，即兴，作曲，歌曲创作，出版发行…… 朱文博运作实验音乐厂牌“燥眠夜”，组织很小的演出（自2009年开始），出版磁带（自2015年开始）。通过一些跨地域合作，燥眠夜将一些少为人知的音乐实践探索记录带入到其它领域的听众视野中。
+
+*zhuwenbo.bandcamp.com*
 
 **孙一舟**
 
-2000年生，住在北京。即兴乐手。从事电声即兴、概念性音乐创作。2019年开始活跃在北京及国内地下音乐场景，2022年创办独立厂牌“芦荟唱片”至今。主要使用多种廉价且错误操作的电器，发出极其干硬的反馈。他的音乐专辑曾于Ftarri、Zappak(东京)、Brachliegen、Steep Gloss(伦敦)、業力引爆(台北)、無害(香港)等多个实验音乐厂牌发行CD以及盒式磁带。[sunyizhou.org](sunyizhou.org)
+2000年生，住在北京。即兴乐手。从事电声即兴、概念性音乐创作。2019年开始活跃在北京及国内地下音乐场景，2022年创办独立厂牌“芦荟唱片”至今。主要使用多种廉价且错误操作的电器，发出极其干硬的反馈。他的音乐专辑曾于Ftarri、Zappak(东京)、Brachliegen、Steep Gloss(伦敦)、業力引爆(台北)、無害(香港)等多个实验音乐厂牌发行CD以及盒式磁带。
+
+*sunyizhou.org*
