@@ -19,21 +19,21 @@ description: Mu, Zhao Ziyi, Noah Ophoven-Baldwin（play by Zhu Wenbo, Sun Yizhou
 
 ///
 
-Zhao Ziyi
+**赵子毅**
 
-solo
+独奏
 
-Mu
+**Mu**
 
-Tossing the ball
+抛球
 
-Noah Ophoven-Baldwin
+**Noah Ophoven-Baldwin**
 
-The sun or any brightness
-Performed by Zhu Wenbo, Sun Yizhou, John Wilton
+太阳或任何光亮
+play by Zhu Wenbo, Sun Yizhou, John Wilton
 
-Cornelius Cardew
+**Cornelius Cardew**
 
-Treatise
+论著
 
-Performed by Zhao Cong, Zhao Ziyi, Shuoxin Tan, John Wilton, Wang Mengfan
+play by Zhao Cong, Zhao Ziyi, Shuoxin Tan, John Wilton, Wang Mengfan
