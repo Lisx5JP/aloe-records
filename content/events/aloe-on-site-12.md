@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 12
 slug: "14072024"
-date: 2024-07-02
+date: 2024-07-14
 series: on-site
 description: nefo, Yan Jun, Sun Yizhou + Li Weisi, Sun Yizhou + Xiang
 ---
