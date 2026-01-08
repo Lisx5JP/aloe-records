@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 27
 slug: "191125"
-date: 2025-11-11
+date: 2025-11-19
 series: on-site
 description: John Wilton, Huang Hao, The Failed (Sun Yizhou + Zhao Ziyi)
 ---
