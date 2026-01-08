@@ -23,7 +23,7 @@ description: John Wilton, VKHNC, PULSECOM + Sun Yizhou
 
 **崔赫（Pulsecom）**
 
-2019年以来，Pulsecom 一直在经营一个名为 “VOID(0) ”的小型场地，他在那里表演并组织演出。Pulsecom 用他在自己生活中发现的独特变量、振荡和呼吸的原理、结构和过程所创造的振荡来演奏和创作故事。Pulsecom 过去主要使用电脑工作，但最近他开始使用调音台反馈和他自己改装的萨克斯部件。
+2019年以来，Pulsecom 一直在经营一个名为「VOID(0)」的小型场地，他在那里表演并组织演出。Pulsecom 用他在自己生活中发现的独特变量、振荡和呼吸的原理、结构和过程所创造的振荡来演奏和创作故事。Pulsecom 过去主要使用电脑工作，但最近他开始使用调音台反馈和他自己改装的萨克斯部件。
 
 *pulsecom.bandcamp.com*
 
