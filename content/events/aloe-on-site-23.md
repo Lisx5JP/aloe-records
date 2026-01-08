@@ -3,7 +3,7 @@ title: Aloe on-site 23
 slug: "190723"
 date: 2025-07-15
 series: on-site
-description: Lekasky, Max Eilbacher, Ake+Yan Jun
+description: Lekasky, Max Eilbacher, Ake + Yan Jun
 ---
 ![](/images/uploads/on-site-23.png)
 
