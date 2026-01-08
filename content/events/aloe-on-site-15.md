@@ -19,7 +19,7 @@ Manfred Werder's visit to Beijing is supported by the Swiss Cultural Foundation 
 
 **曼弗雷德·维尔德（Manfred Werder）**
 
-作为作曲家和表演者，他在对世界的所有可能的丰富中徘徊。他最近的作品“历史的音乐”延续了铭文的实践，通过打字和公共空间的衍生寻找材料。他的早期作品包括“ stück 1998”和“performer series (1999- )”，“ten 4000 page scores”，自1997年12月以来，一直在进行非重复和间歇性的表演和实现。生活在原地。
+作为作曲家和表演者，他在对世界的所有可能的丰富中徘徊。他最近的作品“历史的音乐”延续了铭文的实践，通过打字和公共空间的衍生寻找材料。他的早期作品包括「stück 1998」和「performer series (1999- )」，「ten 4000 page scores」，自1997年12月以来，一直在进行非重复和间歇性的表演和实现。生活在原地。
 
 *manfred-werder.blogspot.com*
 
