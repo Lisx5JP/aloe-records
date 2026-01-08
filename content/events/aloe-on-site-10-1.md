@@ -11,7 +11,7 @@ description: Ryu Hankil, Sun Yizhou, Huang Hao
 
 **Ryu Hankil, Sun Yizhou, Huang Hao**
 
-**on-site #10 @postpost 2.0**
+**on-site #10 @postpost 2.0, Beijing**
 
 ///
 
