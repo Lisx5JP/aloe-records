@@ -7,13 +7,13 @@ description: "Host: Seijiro Murayama"
 ---
 ![](/images/uploads/seijio.jpg)
 
-**10:00AM - 1:00PM, 2:00PM - 4:00PM, February 15–16, 2025, 2024**
+**10:00AM - 1:00PM, 2:00PM - 4:00PM, February 15–16, 2025**
 
 **Host: Seijiro Murayama**
 
 **Workshop #2 @Xiaoye Space, Beijing**
 
-Regarding the previous day's concert: https://aloerecords.com/events/140225/
+**Regarding the previous day's concert:** *https://aloerecords.com/events/140225/*
 
 ///
 
