@@ -4,7 +4,7 @@ slug: "30032024"
 date: 2024-03-26
 series: tour
 description: Tom Soloveitzik 2024 Bejing Shanghai Tour was curated by Aloe
-  Records, Sub Jam, Zoomin' Night, and Turtle Tone.
+  Records, Sub Jam, Zoomin' Night, and Turtle Tone
 ---
 ![](/images/uploads/tom-soloveitzik-tour.jpg)
 
