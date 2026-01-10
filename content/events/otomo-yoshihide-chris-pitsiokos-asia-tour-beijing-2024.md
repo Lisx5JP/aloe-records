@@ -12,17 +12,17 @@ description: Otomo Yoshihide + Chris Pitsiokos Asia Tour (Beijing) was curated
 
 **September 8, 2024**
 
-**Otomo Yoshihide + Chris Pitsiokos, Sun Yizhou, Soviet Pop**
+Otomo Yoshihide + Chris Pitsiokos, Sun Yizhou, Soviet Pop
 
-**@Omni Club, Beijing**
+@Omni Club, Beijing
 
 **September 9, 2024**
 
-**Otomo Yoshihide + Zhu Wenbo, Chris Pitsiokos + Yan Jun, Zhao Ziyi**
+Otomo Yoshihide + Zhu Wenbo, Chris Pitsiokos + Yan Jun, Zhao Ziyi
 
-**on-site #14 @Xiaoye space, Beijing**
+on-site #14 @Xiaoye space, Beijing
 
-Otomo Yoshihide + Chris Pitsiokos Asia Tour (Beijing) was curated by Aloe Records, Sub Jam, Zoomin’ Night
+*Otomo Yoshihide + Chris Pitsiokos Asia Tour (Beijing) was curated by Aloe Records, Sub Jam, Zoomin’ Night.*
 
 ///
 
