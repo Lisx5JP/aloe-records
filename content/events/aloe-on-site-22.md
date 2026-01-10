@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 22
 slug: "110725"
-date: 2025-07-04
+date: 2025-07-11
 series: on-site
 description: Torcal, Zhao Ziyi, Franki Wals + Sun Yizhou
 ---
@@ -11,7 +11,7 @@ description: Torcal, Zhao Ziyi, Franki Wals + Sun Yizhou
 
 **Torcal, Zhao Ziyi, Franki Wals + Sun Yizhou**
 
-[](https://aloerecords.com/events/0510/)**on-site #24 @Xiaoye Space, Beijing**
+**on-site #24 @Xiaoye Space, Beijing**
 
 ///
 
@@ -33,7 +33,7 @@ description: Torcal, Zhao Ziyi, Franki Wals + Sun Yizhou
 
 弗兰基-瓦尔斯，1989年生于西班牙科尔多瓦。通过实地录音、纪律聆听和电声即兴创作，探索经验、感知和环境。在现场表演中，他通常使用笔记本电脑、无输入调音台和各种声音设备。
 
-*www.frankiwals.com*
+*frankiwals.com*
 
 **孙一舟**
 
