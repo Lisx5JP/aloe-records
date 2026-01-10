@@ -1,5 +1,5 @@
 ---
-title: "Aloe W #1"
+title: Aloe W#1
 slug: "010524"
 date: 2024-05-01
 series: workshop
