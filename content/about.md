@@ -12,7 +12,7 @@ Meanwhile, we have been consistently organizing concerts, workshops, and residen
 
 Without the help of many friends, Aloe Records would not be where it is today, they make Aloe not Alone: 
 
-Li Yakun (physical design 2022-2023) 
+[Li Yakun](https://zoshen.org/) (physical design 2022-2023) 
 Bian Xingchi (website development 2022- )
 
 ...
