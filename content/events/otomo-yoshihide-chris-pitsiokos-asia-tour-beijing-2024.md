@@ -3,8 +3,8 @@ title: Otomo Yoshihide + Chris Pitsiokos (Beijing), 2024
 slug: "08092024"
 date: 2024-09-09
 series: tour
-description: Otomo Yoshihide + Chris Pitsiokos, Sun Yizhou, Soviet Pop, Otomo
-  Yoshihide + Zhu Wenbo, Chris Pitsiokos + Yan Jun, Zhao Ziyi
+description: Otomo Yoshihide + Chris Pitsiokos Asia Tour (Beijing) was curated
+  by Aloe Records, Sub Jam, Zoomin’ Night
 ---
 ![](/images/uploads/otomo_chris_omini.jpg)
 
