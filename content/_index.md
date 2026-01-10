@@ -1,4 +1,4 @@
-## About Aloe News
+## Aloe News
 
 ***out now*:** [](https://aloerecords.bandcamp.com/album/paper-gore)[](https://aloerecords.bandcamp.com/album/read-fat-city-lyrics)
 **Aloe-005** | Jin Sangtae / Takahiro Kawaguchi - *[Redox](https://aloerecords.bandcamp.com/album/redox)* \[Cassette & Digital]
