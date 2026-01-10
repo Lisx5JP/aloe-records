@@ -1,6 +1,6 @@
 ---
-title: Otomo Yoshihide+Chris Pitsiokos Asia Tour (Beijing), 2024
-slug: "0900"
+title: Otomo Yoshihide + Chris Pitsiokos (Beijing), 2024
+slug: "08092024"
 date: 2024-09-09
 series: tour
 description: 大友良英与Chris
@@ -11,11 +11,19 @@ description: 大友良英与Chris
 
 ![](/images/uploads/otomo_chris_xiaoye.jpg)
 
-`Poster by Sun Yizhou`
+**September 8, 2024**
 
-大友良英+克里斯·皮齐奥科斯 亚洲巡演（北京站）由 芦荟唱片、燥眠夜、撒把芥末 共同策划。
+**Otomo Yoshihide + Chris Pitsiokos, Sun Yizhou, Soviet Pop**
 
-Otomo Yoshihide+Chris Pitsiokos Asia Tour (Beijing) was curated by Aloe Records, Sub Jam, Zoomin’ Night, and Turtle Tone.
+**@Omni Club, Beijing**
+
+**September 9, 2024**
+
+**Otomo Yoshihide + Zhu Wenbo, Chris Pitsioko s+ Yan Jun, Zhao Ziyi**
+
+**on-site #14 @Xiaoye space, Beijing**
+
+Otomo Yoshihide + Chris Pitsiokos Asia Tour (Beijing) was curated by Aloe Records, Sub Jam, Zoomin’ Night
 
 ///
 
@@ -33,30 +41,10 @@ Chris Pitsiokos 的音乐关注于精湛的技艺、作曲、复杂的节奏以�
 
 ///
 
-September 8, 2024
-
-Otomo Yoshihide+Chris Pitsiokos, Sun Yizhou, Soviet Pop
-
-东市 Omni Club, Beijing
-
-/
-
-September 9, 2024
-
-Otomo Yoshihide+Zhu Wenbo, Chris Pitsiokos+Yan Jun, Zhao Ziyi
-
-Aloe on-site 14
-
-Xiaoye space, Beijing
-
-///
-
 大友良英（Otomo Yoshihide 生于1959年）自1980年代末开始了他独一无二的现场音乐表演，至今已超过35年。大友良英活跃在相对独立的噪音/即兴场景中，为大量的电影和电视剧创作音乐，参与公众项目，同时也做装置，担任艺术节的总监——这些创作方向同时且独立地进行着——与此同时他也在世界各地演出。作为一位电影音乐工作者，大友为100多部电影创作了配乐。在2011年3月的大地震之后，他在自己的家乡福岛发起了“福岛！计划”，至今仍在持续开展各种活动。他同时还策划复兴了福岛本土标志性的夏日“草鞋祭”。2023年8月，他出版了自己作为吉他手和唱机乐手的录音室即兴专辑《Solo Works 1 Guitar and Turntable》。
 
-website: https://otomoyoshihide.com
-
-/
+https://otomoyoshihide.com
 
 克里斯·皮奇奥科斯（Chris Pitsiokos，生于 1990 年）是一位住在纽约与柏林的萨克斯手/作曲家/即兴音乐家。虽然他并不关注音乐类型，但从广义上讲，Chris Pitsiokos的音乐属于实验音乐的范畴，包括噪音、即兴音乐、实验爵士、自由爵士、噪音摇滚、新音乐、极简主义音乐、长音与艺术摇滚。作为一名独奏乐手，他他对中音萨克斯的延展使用使其在情感和形式上有了丰富的可能性，带来了独特的语言。作为乐队领队与合作领队他录制了 30 多张专辑。作为乐队领队和独奏乐手，他曾在日本、美国、南美和欧洲巡演，参加世界各地的音乐节。他的最新个人专辑《Irrational Rhythms and Shifting Poles（不合理的节奏与两极的变换）》是一张关于无理数节奏、与声音相位变换的心理声学作品，使用萨克斯、笔记本电脑与四声道音响。Chris Pitsiokos是《Sound American》杂志编辑并为其撰稿。
 
-website: www.chrispitsiokos.com
+www.chrispitsiokos.com
