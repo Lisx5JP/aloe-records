@@ -13,7 +13,7 @@ description: "Host: Seijiro Murayama"
 
 **Workshop #2 @Xiaoye Space, Beijing**
 
-**Regarding the previous day's concert: https://aloerecords.com/events/140225/**
+Regarding the previous day's concert: https://aloerecords.com/events/140225/
 
 ///
 
