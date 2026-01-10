@@ -6,7 +6,7 @@ menu: main
 
 Aloe Records (芦荟唱片)  a Beijing-based limited edition publishing label. Focusing primarily on electro-acoustic improvisation, experimental composition, post-2000 improvised music, conceptual sound works, and more radical or obscure sound practices. Run by [Sun Yizhou](https://sunyizhou.org/) since the COVID-19 pandemic in 2022. In 2024, artist & organizer [Zhang Cai](https://www.instagram.com/cai__zhang/) joined Aloe Records.
 
-Aloe Records has always self-operated without funding. Therefore, our physical editions are limited in quantity, and we aim to showcase more works through a multi home-made approach. In addition to releasing solo albums by local musicians, we also promote collaborative projects between Chinese and Asian artists and their Western counterparts. We have released 20 different albums.
+Aloe Records has always self-operated without funding. Therefore, our physical editions are limited in quantity, and we aim to showcase more works through a multi home-made approach. In addition to releasing solo albums by local musicians, we also promote collaborative projects between Chinese and Asian artists and their Western counterparts. We have released 20 different albums to date.
 
 Meanwhile, we have been consistently organizing concerts, workshops, and residency programs in Beijing since 2023. To date, we have successfully hosted 50 events. The musicians belong to an international network, with artists from nearly 18 countries performing at these events.
 
