@@ -11,9 +11,6 @@ It is currently self-operated and its publications are not limited to any medium
 Without the help of many friends, Aloe Records would not be where it is today, they make Aloe not Alone: 
 
 Li Yakun (physical design 2022-2023) 
-
-Bian Xingchi (website maintenance 2022- )
-
-Zhu Wenbo, Yan Jun (technical support 2022- )
+Bian Xingchi (website development 2022- )
 
 ...
