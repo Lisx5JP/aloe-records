@@ -3,9 +3,8 @@ title: Otomo Yoshihide + Chris Pitsiokos (Beijing), 2024
 slug: "08092024"
 date: 2024-09-09
 series: tour
-description: 大友良英与Chris
-  Pitsiokos的二重奏出版过两张现场专辑，2020年的《佛罗伦萨现场》（2018年录音）与今年5月最新出版的《Uncanny
-  Mirror（危险的镜子）》（2023年欧洲巡演录音）。现在他们计划带着新出版的CD与未知的现场即兴，出现在更多亚洲的城市中
+description: Otomo Yoshihide + Chris Pitsiokos, Sun Yizhou, Soviet Pop, Otomo
+  Yoshihide + Zhu Wenbo, Chris Pitsiokos + Yan Jun, Zhao Ziyi
 ---
 ![](/images/uploads/otomo_chris_omini.jpg)
 
@@ -19,7 +18,7 @@ description: 大友良英与Chris
 
 **September 9, 2024**
 
-**Otomo Yoshihide + Zhu Wenbo, Chris Pitsioko s+ Yan Jun, Zhao Ziyi**
+**Otomo Yoshihide + Zhu Wenbo, Chris Pitsiokos + Yan Jun, Zhao Ziyi**
 
 **on-site #14 @Xiaoye space, Beijing**
 
