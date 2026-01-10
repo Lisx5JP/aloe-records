@@ -1,6 +1,6 @@
 ## Aloe News
 
-***out now*:** 
+*out now*: 
 
 **Aloe-005** | Jin Sangtae / Takahiro Kawaguchi - *[Redox](https://aloerecords.bandcamp.com/album/redox)*
 
@@ -10,7 +10,7 @@
 
 - - -
 
-***next event*:**
+*next event*:
 
 **on-site #28** | Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė
 
@@ -20,7 +20,7 @@
 
 - - -
 
-***distribution*:**
+*distribution*:
 
 **[a-musik](https://www.a-musik.com/label/aloe-records.html)** (Köln)
 
