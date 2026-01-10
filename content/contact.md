@@ -4,8 +4,8 @@ menu: main
 ---
 # Contact
 
-For demos, Please note: **at this point Aloe Records is not accepting demo materials and other proposals for future releases, thank you for your kind understanding.**
+For demos, please note: **Aloe Records is currently not accepting demo submissions or proposals for future releases. If we haven't responded to you, this is the reason. We apologize and thank you for your understanding.**
 
-For purchases, digital versions / single physical publications are available on Bandcamp. For more volume of physical publications, or if you wish to support us, please feel free to contact us.
+For purchases, digital versions / single physical publications are available on *Bandcamp*. For more volume of physical publications, please feel free to contact us.
 
-Email: aloerecordss(at)gmail(dot)com
+E-mail: *aloerecordss(at)gmail(dot)com*
