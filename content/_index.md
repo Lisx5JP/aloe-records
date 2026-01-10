@@ -12,11 +12,11 @@
 
 ***next event*:**
 
-![](/images/uploads/on-site-28.png)
-
 **on-site #28** | Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė
 
 **on-site #29** | Ake, Takako Suzuki + Zhu Wenbo, Sun Yizhou + Yan Jun
+
+![](/images/uploads/on-site-28.png)
 
 - - -
 
