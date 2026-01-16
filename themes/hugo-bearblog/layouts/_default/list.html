@@ -99,12 +99,13 @@
     {{ end }}
   </ul> -->
 
-  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "on-site" ) }}
+  {{ $onSitePages := sort (where (where .Pages "Section" "events") "Params.series" "==" "on-site") "Date" "desc" }}
+  {{ range first 1 $onSitePages }}
   <strong style="display: block;">On-site</strong>
   {{ end }}
 
   <ul class="blog-posts">
-    {{ range where (where .Pages "Section" "events") "Params.series" "==" "on-site" }}
+    {{ range first 7 $onSitePages }}
     <li>
       <span>
         <i>
@@ -118,6 +119,28 @@
     {{ else }}
     {{ end }}
   </ul>
+
+  {{ $onSiteRest := after 7 $onSitePages }}
+  {{ if gt (len $onSiteRest) 0 }}
+  <ul class="blog-posts">
+    {{ range (sort $onSiteRest "Date" "asc").GroupByDate "2006" }}
+    <li>
+      <span>
+        <i>{{ .Key }}</i>
+      </span>
+      {{ range $i, $p := sort .Pages "Date" "asc" }}
+        {{ $matches := findRE "\\d+" $p.Title }}
+        {{ $num := $p.Title }}
+        {{ if ge (len $matches) 1 }}
+          {{ $num = index $matches 0 }}
+        {{ end }}
+        {{ if gt $i 0 }}&nbsp;{{ end }}
+        <a href="{{ $p.Permalink }}">{{ $num }}</a>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
 
   {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "intervals" ) }}
   <strong style="padding-top: 16px; display: block;">Intervals</strong>
