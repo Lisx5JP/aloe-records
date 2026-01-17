@@ -32,6 +32,31 @@ collections: # A list of collections the CMS should be able to edit
         file: "content/about.md"
         fields:
           - { label: "Content", name: "body", widget: "markdown" }
+      - name: "about-on-site"
+        label: "About On-site"
+        file: "content/events/about-on-site.md"
+        fields:
+          - { label: "Content", name: "body", widget: "markdown" }
+      - name: "about-intervals"
+        label: "About Intervals"
+        file: "content/events/about-intervals.md"
+        fields:
+          - { label: "Content", name: "body", widget: "markdown" }
+      - name: "about-workshop"
+        label: "About Workshop"
+        file: "content/events/about-workshop.md"
+        fields:
+          - { label: "Content", name: "body", widget: "markdown" }
+      - name: "about-tour"
+        label: "About Tour"
+        file: "content/events/about-tour.md"
+        fields:
+          - { label: "Content", name: "body", widget: "markdown" }
+      - name: "about-residence"
+        label: "About Residence"
+        file: "content/events/about-residence.md"
+        fields:
+          - { label: "Content", name: "body", widget: "markdown" }
   - name: "releases" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Release" # Used in the UI, ie.: "New Post"
     folder: "content/releases" # The path to the folder where the documents are stored

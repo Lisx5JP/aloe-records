@@ -99,11 +99,21 @@
     {{ end }}
   </ul> -->
 
-  {{ $onSitePages := sort (where (where .Pages "Section" "events") "Params.series" "==" "on-site") "Date" "desc" }}
-  {{ range first 1 $onSitePages }}
-  <strong style="display: block;">On-site</strong>
+  {{ if eq .Section "events" }}
+  {{ $eventPages := where .Pages "Section" "events" }}
+  {{ $onSitePages := sort (where $eventPages "Params.series" "==" "on-site") "Date" "desc" }}
+  {{ $onSiteAbout := .Site.GetPage "events/about-on-site" }}
+  {{ if or (gt (len $onSitePages) 0) $onSiteAbout }}
+  <strong style="display: block;">
+    {{ if $onSiteAbout }}
+    <a class="event-category-link" href="{{ $onSiteAbout.Permalink }}">On-site</a>
+    {{ else }}
+    On-site
+    {{ end }}
+  </strong>
   {{ end }}
 
+  {{ if gt (len $onSitePages) 0 }}
   <ul class="blog-posts">
     {{ range first 7 $onSitePages }}
     <li>
@@ -119,6 +129,7 @@
     {{ else }}
     {{ end }}
   </ul>
+  {{ end }}
 
   {{ $onSiteRest := after 7 $onSitePages }}
   {{ if gt (len $onSiteRest) 0 }}
@@ -142,12 +153,21 @@
   </ul>
   {{ end }}
 
-  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "intervals" ) }}
-  <strong style="padding-top: 16px; display: block;">Intervals</strong>
+  {{ $intervalsPages := where $eventPages "Params.series" "==" "intervals" }}
+  {{ $intervalsAbout := .Site.GetPage "events/about-intervals" }}
+  {{ if or (gt (len $intervalsPages) 0) $intervalsAbout }}
+  <strong style="padding-top: 16px; display: block;">
+    {{ if $intervalsAbout }}
+    <a class="event-category-link" href="{{ $intervalsAbout.Permalink }}">Intervals</a>
+    {{ else }}
+    Intervals
+    {{ end }}
+  </strong>
   {{ end }}
 
+  {{ if gt (len $intervalsPages) 0 }}
   <ul class="blog-posts">
-    {{ range where (where .Pages "Section" "events") "Params.series" "==" "intervals" }}
+    {{ range $intervalsPages }}
     <li>
       <span>
         <i>
@@ -161,13 +181,23 @@
     {{ else }}
     {{ end }}
   </ul>
-
-  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "workshop" ) }}
-  <strong style="padding-top: 16px; display: block;">Workshop</strong>
   {{ end }}
 
+  {{ $workshopPages := where $eventPages "Params.series" "==" "workshop" }}
+  {{ $workshopAbout := .Site.GetPage "events/about-workshop" }}
+  {{ if or (gt (len $workshopPages) 0) $workshopAbout }}
+  <strong style="padding-top: 16px; display: block;">
+    {{ if $workshopAbout }}
+    <a class="event-category-link" href="{{ $workshopAbout.Permalink }}">Workshop</a>
+    {{ else }}
+    Workshop
+    {{ end }}
+  </strong>
+  {{ end }}
+
+  {{ if gt (len $workshopPages) 0 }}
   <ul class="blog-posts">
-    {{ range where (where .Pages "Section" "events") "Params.series" "==" "workshop" }}
+    {{ range $workshopPages }}
     <li>
       <span>
         <i>
@@ -181,13 +211,23 @@
     {{ else }}
     {{ end }}
   </ul>
-
-  {{ range first 1 (where (where .Pages "Section" "events") "Params.series" "==" "tour" ) }}
-  <strong style="padding-top: 16px; display: block;">Tour</strong>
   {{ end }}
 
+  {{ $tourPages := where $eventPages "Params.series" "==" "tour" }}
+  {{ $tourAbout := .Site.GetPage "events/about-tour" }}
+  {{ if or (gt (len $tourPages) 0) $tourAbout }}
+  <strong style="padding-top: 16px; display: block;">
+    {{ if $tourAbout }}
+    <a class="event-category-link" href="{{ $tourAbout.Permalink }}">Tour</a>
+    {{ else }}
+    Tour
+    {{ end }}
+  </strong>
+  {{ end }}
+
+  {{ if gt (len $tourPages) 0 }}
   <ul class="blog-posts">
-    {{ range where (where .Pages "Section" "events") "Params.series" "==" "tour" }}
+    {{ range $tourPages }}
     <li>
       <span>
         <i>
@@ -201,6 +241,38 @@
     {{ else }}
     {{ end }}
   </ul>
+  {{ end }}
+
+  {{ $residencePages := where $eventPages "Params.series" "==" "residence" }}
+  {{ $residenceAbout := .Site.GetPage "events/about-residence" }}
+  {{ if or (gt (len $residencePages) 0) $residenceAbout }}
+  <strong style="padding-top: 16px; display: block;">
+    {{ if $residenceAbout }}
+    <a class="event-category-link" href="{{ $residenceAbout.Permalink }}">Residence</a>
+    {{ else }}
+    Residence
+    {{ end }}
+  </strong>
+  {{ end }}
+
+  {{ if gt (len $residencePages) 0 }}
+  <ul class="blog-posts">
+    {{ range $residencePages }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ else }}
+    {{ end }}
+  </ul>
+  {{ end }}
+  {{ end }}
 
   {{ if .Data.Singular }}
   {{else}}
