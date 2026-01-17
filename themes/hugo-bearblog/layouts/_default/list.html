@@ -101,7 +101,14 @@
 
   {{ if eq .Section "events" }}
   {{ $eventPages := where .Pages "Section" "events" }}
-  {{ $onSitePages := sort (where $eventPages "Params.series" "==" "on-site") "Date" "desc" }}
+  {{ $onSitePages := slice }}
+  {{ range $eventPages }}
+    {{ $series := lower (default "" .Params.series) }}
+    {{ if eq $series "on-site" }}
+      {{ $onSitePages = $onSitePages | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $onSitePages = sort $onSitePages "Date" "desc" }}
   {{ $onSiteAbout := .Site.GetPage "events/about-on-site" }}
   {{ if or (gt (len $onSitePages) 0) $onSiteAbout }}
   <strong style="display: block;">
@@ -153,7 +160,13 @@
   </ul>
   {{ end }}
 
-  {{ $intervalsPages := where $eventPages "Params.series" "==" "intervals" }}
+  {{ $intervalsPages := slice }}
+  {{ range $eventPages }}
+    {{ $series := lower (default "" .Params.series) }}
+    {{ if eq $series "intervals" }}
+      {{ $intervalsPages = $intervalsPages | append . }}
+    {{ end }}
+  {{ end }}
   {{ $intervalsAbout := .Site.GetPage "events/about-intervals" }}
   {{ if or (gt (len $intervalsPages) 0) $intervalsAbout }}
   <strong style="padding-top: 16px; display: block;">
@@ -183,7 +196,13 @@
   </ul>
   {{ end }}
 
-  {{ $workshopPages := where $eventPages "Params.series" "==" "workshop" }}
+  {{ $workshopPages := slice }}
+  {{ range $eventPages }}
+    {{ $series := lower (default "" .Params.series) }}
+    {{ if eq $series "workshop" }}
+      {{ $workshopPages = $workshopPages | append . }}
+    {{ end }}
+  {{ end }}
   {{ $workshopAbout := .Site.GetPage "events/about-workshop" }}
   {{ if or (gt (len $workshopPages) 0) $workshopAbout }}
   <strong style="padding-top: 16px; display: block;">
@@ -213,7 +232,13 @@
   </ul>
   {{ end }}
 
-  {{ $tourPages := where $eventPages "Params.series" "==" "tour" }}
+  {{ $tourPages := slice }}
+  {{ range $eventPages }}
+    {{ $series := lower (default "" .Params.series) }}
+    {{ if eq $series "tour" }}
+      {{ $tourPages = $tourPages | append . }}
+    {{ end }}
+  {{ end }}
   {{ $tourAbout := .Site.GetPage "events/about-tour" }}
   {{ if or (gt (len $tourPages) 0) $tourAbout }}
   <strong style="padding-top: 16px; display: block;">
@@ -243,7 +268,13 @@
   </ul>
   {{ end }}
 
-  {{ $residencePages := where $eventPages "Params.series" "==" "residence" }}
+  {{ $residencePages := slice }}
+  {{ range $eventPages }}
+    {{ $series := lower (default "" .Params.series) }}
+    {{ if eq $series "residence" }}
+      {{ $residencePages = $residencePages | append . }}
+    {{ end }}
+  {{ end }}
   {{ $residenceAbout := .Site.GetPage "events/about-residence" }}
   {{ if or (gt (len $residencePages) 0) $residenceAbout }}
   <strong style="padding-top: 16px; display: block;">
