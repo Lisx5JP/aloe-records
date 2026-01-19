@@ -1,6 +1,6 @@
 ---
 title: Aloe W#4
-slug: "01022026"
+slug: "010226"
 date: 2026-01-19
 series: workshop
 description: "Host: Takako Suzuki"
@@ -14,6 +14,8 @@ description: "Host: Takako Suzuki"
 **Host: Takako Suzuki**
 
 **Workshop #4 @Xiaoye Space, Beijing**
+
+**Regarding the previous day's concert:** *https://aloerecords.com/events/310126/*
 
 ///
 
