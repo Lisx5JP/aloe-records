@@ -12,11 +12,9 @@ Aloes-001 | Ian Douglas-Moore / Dominic Coles / Eric Wong -*[under under hill](
 
 ***next event*:**
 
-on-site #28 | Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė
-
 on-site #29 | Ake, Takako Suzuki + Zhu Wenbo, Sun Yizhou + Yan Jun
 
-![](/images/uploads/on-site-28.png)
+![](/images/uploads/on-site-29.png)
 
 - - -
 
