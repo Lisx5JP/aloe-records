@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 29
 slug: "310126"
-date: 2026-01-19
+date: 2026-01-31
 series: on-site
 description: Ake, Sun Yizhou + Yan Jun, Takako Suzuki + Zhu Wenbo
 ---
