@@ -5,6 +5,8 @@ date: 2026-03-02
 series: on-site
 description: Zhao Ziyi, Sun Zhizheng, Sun Yizhou + Yan Yulong
 ---
+![](/images/uploads/on-site-30.png)
+
 **7:30 PM, March 13, 2026**
 
 **Zhao Ziyi, Sun Zhizheng, Sun Yizhou + Yan Yulong**
