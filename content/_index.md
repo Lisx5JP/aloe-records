@@ -12,9 +12,9 @@ Aloes-001 | Ian Douglas-Moore / Dominic Coles / Eric Wong -*[under under hill](
 
 ***next event*:**
 
-on-site #30 | Zhao Ziyi, Sun Zhizheng, Sun Yizhou + Yan Yulong
+on-site #31 | Manfred Werder
 
-![](/images/uploads/on-site-30.png)
+![](/images/uploads/on-site-31.png)
 
 - - -
 
