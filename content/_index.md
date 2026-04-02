@@ -12,7 +12,7 @@ Aloes-001 | Ian Douglas-Moore / Dominic Coles / Eric Wong -*[under under hill](
 
 ***next event*:**
 
-on-site #31 | Manfred Werder
+on-site #31 | Manfred Werder: \[ envelopes of world ages ] (2026- ) 
 
 ![](/images/uploads/on-site-31.png)
 
