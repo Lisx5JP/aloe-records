@@ -1,12 +1,10 @@
 ## Aloe News
 
-***out now*:** 
+***pre-order now*:** 
 
-Aloe-005 | Jin Sangtae / Takahiro Kawaguchi - *[Redox](https://aloerecords.bandcamp.com/album/redox)*
+Aloe-007 | Li Song / Luciano Maggiore - *[toppe bianche 白色补丁](https://aloerecords.bandcamp.com/album/toppe-bianche)*
 
-Aloe-006 | Zhao Cong / Kevin Corcoran - *[\-1 outside / 24 inside](https://aloerecords.bandcamp.com/album/1-outside-24-inside)*
-
-Aloes-001 | Ian Douglas-Moore / Dominic Coles / Eric Wong - *[under under hill](https://aloerecords.bandcamp.com/album/under-under-hill)*
+Aloe-008 | Yan Jun / Ryu Hankil - *[all words return 翱卧瑞吞](https://aloerecords.bandcamp.com/album/all-words-return)*
 
 - - -
 
