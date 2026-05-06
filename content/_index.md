@@ -10,9 +10,9 @@ Aloe-008 | Yan Jun / Ryu Hankil - *[all words return 翱卧瑞吞](https://aloe
 
 ***next event*:**
 
-on-site #31 | Manfred Werder: \[ envelopes of world ages ] (2026- ) 
+on-site #32 | Ziyang, Huang Hao, Afterpay, Territorial Gobbing
 
-![](/images/uploads/on-site-31.png)
+![](/images/uploads/on-site-32.png)
 
 - - -
 
