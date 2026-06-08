@@ -1,6 +1,6 @@
 ## Aloe News
 
-***pre-order now*:** 
+***release now*:** 
 
 Aloe-007 | Li Song / Luciano Maggiore - *[toppe bianche 白色补丁](https://aloerecords.bandcamp.com/album/toppe-bianche)*
 
