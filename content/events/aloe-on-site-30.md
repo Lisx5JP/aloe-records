@@ -1,6 +1,6 @@
 ---
 title: Aloe on-site 30
-slug: "031326"
+slug: "130326"
 date: 2026-03-13
 series: on-site
 description: Zhao Ziyi, Sun Zhizheng, Sun Yizhou + Yan Yulong
