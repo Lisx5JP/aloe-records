@@ -1,6 +1,6 @@
 ---
 title: Aloe on-site 31
-slug: "041126"
+slug: "110426"
 date: 2026-04-11
 series: on-site
 description: Manfred Werder
