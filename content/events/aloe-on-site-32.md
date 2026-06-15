@@ -1,6 +1,6 @@
 ---
 title: Aloe on-site 32
-slug: "051426"
+slug: "140526"
 date: 2026-05-14
 series: on-site
 description: Ziyang, Huang Hao, Afterpay, Territorial Gobbing
