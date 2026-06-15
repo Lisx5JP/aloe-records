@@ -7,7 +7,7 @@ description: The Failed, Duo Han Longbow, Yan Jun + Yan Yulong
 ---
 ![](/images/uploads/on-site-33大.jpeg)
 
-**7:30 PM, June 19,  2026**
+**7:30 PM, June 19, 2026**
 
 **The Failed, Duo Han Longbow, Yan Jun + Yan Yulong**
 
