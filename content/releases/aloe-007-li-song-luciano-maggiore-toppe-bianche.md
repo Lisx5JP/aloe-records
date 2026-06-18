@@ -3,10 +3,10 @@ title: "Aloe-008: Yan Jun / Ryu Hankil -  all words return 翱卧瑞吞"
 slug: aloe-008
 date: 2026-06-19
 series: Aloe
-description: During this time, a shift in their collaboration became palpable,
+description: "During this time, a shift in their collaboration became palpable,
   with the woody sounds emanating from Ryu Hankil's ⑧ and Yan Jun's shaman-like
   voice returning to a kind of primal ritual. While this is not a professional
-  studio album, it is a unique, unpolished work presented in its raw form.
+  studio album, it is a unique, unpolished work presented in its raw form. "
 ---
 ![]()
 
