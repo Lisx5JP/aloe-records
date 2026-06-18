@@ -14,7 +14,7 @@ This album was recorded beneath the railway arches and across the marshes of Wal
 
 The work functions as a collaboration between Li's "no-performance" practice and Maggiore’s fascination with repetition and endurance. A creation of time in which the boundaries between performer, device, and environment finally dissolve. 
 
-{{< bandcamp id="1219200485" layout="medium" >}}››
+{{< bandcamp id="1219200485" layout="medium" >}}
 
 ![]()
 
