@@ -1,7 +1,7 @@
 ---
 title: "Aloe-008: Yan Jun / Ryu Hankil -  all words return 翱卧瑞吞"
 slug: aloe-008
-date: 2026-06-19
+date: 2026-06-04
 series: Aloe
 description: During this time, a shift in their collaboration became palpable,
   with the woody sounds emanating from Ryu Hankil's ⑧ and Yan Jun's shaman-like
