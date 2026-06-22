@@ -8,7 +8,7 @@ description: During this time, a shift in their collaboration became palpable,
   voice returning to a kind of primal ritual. While this is not a professional
   studio album, it is a unique, unpolished work presented in its raw form.
 ---
-![]()
+![](/images/uploads/008_cover_4.jpeg)
 
 This album was recorded in Shanghai in 2024 and completed in Beijing in 2025. The Shanghai recordings are imbued with an eerie sense of multiple spaces compressed into a single moment in time: This includes Yan Jun's vocals echoing within a small room, fictional narratives and reverberations within Ryu Hankil's Max/MSP patch ⑥, and a cacophony of outdoor street sounds interspersed with MAI mai's occasional guitar practice. Later, before their concert in Beijing, they spent a few days at Mount Changbai. During this time, a shift in their collaboration became palpable, with the woody sounds emanating from Ryu Hankil's ⑧ and Yan Jun's shaman-like voice returning to a kind of primal ritual.
 
@@ -16,7 +16,7 @@ While this is not a professional studio album, it is a unique, unpolished work p
 
 {{< bandcamp id="1998822217" layout="medium" >}}
 
-![]()
+![](/images/uploads/aloe-008-all-words-return-翱卧瑞吞.jpeg)
 
 ///
 
