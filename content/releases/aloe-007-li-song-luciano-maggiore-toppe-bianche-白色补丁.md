@@ -8,7 +8,7 @@ description: The work functions as a collaboration between Li's "no-performance"
   of time in which the boundaries between performer, device, and environment
   finally dissolve.
 ---
-![]()
+![](/images/uploads/aloe-007_cover_2-2.png)
 
 This album was recorded beneath the railway arches and across the marshes of Walthamstow, London. It captures the subtle interplay between portable electronics and the rhythmic pulse of passing trains. Rather than erasing the urban environment, the artists added white noise to create a unified sonic landscape. The result is a semi-composed, semi-improvised exploration born from the interweaving arches of environmental factors and human dialogue—a piece of music that eschews self-awareness in favour of a supernatural imbalance.
 
@@ -16,7 +16,7 @@ The work functions as a collaboration between Li's "no-performance" practice and
 
 {{< bandcamp id="1219200485" layout="medium" >}}
 
-![]()
+![](/images/uploads/aloe-007-toppe-bianche-白色补丁大.png)
 
 ///
 
