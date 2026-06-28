@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 33
 slug: "190626"
-date: 2026-06-15
+date: 2026-06-19
 series: on-site
 description: The Failed, Duo Han Longbow, Yan Jun + Yan Yulong
 ---
