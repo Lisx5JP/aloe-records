@@ -12,7 +12,7 @@ Aloe-008 | Yan Jun / Ryu Hankil - *[all words return 翱卧瑞吞](https://aloe
 
 on-site #34 | Yan Jun+Aine Nakamura, Sun Yizhou+Jin Sangtae+Kevin Corcoran
 
-![](/images/uploads/on-site-34大.jpeg)
+![](/images/uploads/on-site-34.jpeg)
 
 - - -
 
