@@ -5,7 +5,7 @@ date: 2026-06-15
 series: on-site
 description: The Failed, Duo Han Longbow, Yan Jun + Yan Yulong
 ---
-![](/images/uploads/on-site-33大.jpeg)
+![](/images/uploads/on-site-33.jpeg)
 
 **7:30 PM, June 19, 2026**
 
