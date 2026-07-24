@@ -3,13 +3,13 @@ title: Aloe on-site 6
 slug: "241223"
 date: 2023-12-14
 series: on-site
-description: Ake, Liu Lu, Da Hong, Afterpay
+description: Ake, Liu Lu, Dahong, Afterpay
 ---
 ![](/images/uploads/aloe-onsite6.jpg)
 
 **16:00 PM, December 24, 2023**
 
-**Ake, Liu Lu, Da Hong, Afterpay**
+**Ake, Liu Lu, Dahong, Afterpay**
 
 **on-site #6 @Xiaoye Space, Beijing**
 
