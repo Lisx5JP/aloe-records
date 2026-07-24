@@ -10,7 +10,7 @@ Aloe-008 | Yan Jun / Ryu Hankil - *[all words return 翱卧瑞吞](https://aloe
 
 ***next event*:**
 
-on-site #35 | Nichijo, Da Hong, Sun Yizhou + Lorena Izquierdo
+on-site #35 | Nichijo, Dahong, Sun Yizhou + Lorena Izquierdo
 
 ![](/images/uploads/on-site-35.jpeg)
 
