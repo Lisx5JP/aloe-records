@@ -3,13 +3,13 @@ title: Aloe on-site 28
 slug: "210126"
 date: 2026-01-08
 series: on-site
-description: Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė
+description: Dahong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė
 ---
 ![](/images/uploads/on-site-28.png)
 
 **7:30 PM, January 21, 2026**
 
-**Da Hong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė**
+**Dahong, Zhu Wenbo, Sholto Dobie, Sun Yizhou + Augustė Vickunaitė**
 
 **on-site #28 @Xiaoye Space, Beijing**
 
