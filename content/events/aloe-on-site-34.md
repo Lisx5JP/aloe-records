@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 34
 slug: "100726"
-date: 2026-06-28
+date: 2026-07-10
 series: on-site
 description: Yan Jun + Aine Nakamura, Sun Yizhou + Jin Sangtae + Kevin Corcoran
 ---
