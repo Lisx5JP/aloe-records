@@ -1,6 +1,6 @@
 ---
 title: Aloe on-site 35
-slug: "280726"
+slug: "140826"
 date: 2026-07-28
 series: on-site
 description: Nichijo, Dahong, Sun Yizhou + Lorena Izquierdo
