@@ -9,7 +9,7 @@ description: Nichijo, Dahong, Tom Mudd, Sun Yizhou + Lorena Izquierdo
 
 **7:30 PM, August 14, 2026**
 
-**Nichijo, Dahong, Sun Yizhou + Lorena Izquierdo**
+**Nichijo, Dahong, Tom Mudd, Sun Yizhou + Lorena Izquierdo**
 
 **on-site #35 @Xiaoye Space, Beijing**
 
@@ -29,17 +29,17 @@ subjamlabel.bandcamp.com/album/one-two
 
 instagram.com/dahong.hongxuan.wang
 
-**汤姆·玛德（Tom Mudd）**
-
-汤姆·玛德利用计算机进行音乐创作，探索软件与音乐之间的关系、将软件作为一种“材料”，并研究合成过程的历史与文化生命。他近期的作品主要围绕物理模型展开——即基于声学物件和乐器的物理模拟而构成的数字合成过程。他早期的作品则将数字合成视为一种混沌系统，可由表演者去触动和激发。
-
-tommudd.co.uk
-
 **孙一舟**
 
 住在北京的即兴乐手，自2019年开始以错误的方式与电子机器们一起工作。例如使用调音台的自身底噪、小型回放设备的短路、不同物件的振动反馈。这些方式是简单的、还原的、非人类的。有时使用身体作为实时发生的人类机器，并利用现场各种元素的组合去创造情境。这些元素包括概念、设备、身体和空间。
 
 sunyizhou.org
+
+**汤姆·玛德（Tom Mudd）**
+
+汤姆·玛德利用计算机进行音乐创作，探索软件与音乐之间的关系、将软件作为一种“材料”，并研究合成过程的历史与文化生命。他近期的作品主要围绕物理模型展开——即基于声学物件和乐器的物理模拟而构成的数字合成过程。他早期的作品则将数字合成视为一种混沌系统，可由表演者去触动和激发。
+
+tommudd.co.uk
 
 **洛雷娜·伊斯基耶多（Lorena Izquierdo）**
 
