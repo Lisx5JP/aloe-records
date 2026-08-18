@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 35
 slug: "140826"
-date: 2026-08-05
+date: 2026-08-14
 series: on-site
 description: Nichijo, Dahong, Tom Mudd, Sun Yizhou + Lorena Izquierdo
 ---
