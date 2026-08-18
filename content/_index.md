@@ -10,9 +10,9 @@ Aloe-008 | Yan Jun / Ryu Hankil - *[all words return 翱卧瑞吞](https://aloe
 
 ***next event*:**
 
-on-site #35 | Nichijo, Dahong, Tom Mudd, Sun Yizhou + Lorena Izquierdo
+on-site #36 | Zhuoxin Li + Guibog, Ryoko Akama + Anne-F Jacques, Ryoko Akama + Sun Yizhou + Li Weisi
 
-![](/images/uploads/on-site-35.jpeg)
+![](/images/uploads/on-site-36.jpeg)
 
 - - -
 
