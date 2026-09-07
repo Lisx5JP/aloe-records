@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 36
 slug: "220826"
-date: 2026-08-18
+date: 2026-08-22
 series: on-site
 description: >
   Zhuoxin Li + /Guibog, Ryoko Akama + Anne-F Jacques, Ryoko Akama + Sun Yizhou +
