@@ -3,13 +3,13 @@ title: " Aloe on-site 38"
 slug: "071026"
 date: 2026-09-29
 series: on-site
-description: Li Weisi, Tetuzi Akiyama +T oshimaru Nakamura
+description: Li Weisi, Tetuzi Akiyama + Toshimaru Nakamura
 ---
 ![](/images/uploads/on-site-38.jpeg)
 
 **7:30 PM, October 7, 2026**
 
-**Li Weisi, Tetuzi Akiyama +T oshimaru Nakamura**
+**Li Weisi, Tetuzi Akiyama + Toshimaru Nakamura**
 
 **on-site #38 @Xiaoye Space, Beijing**
 
