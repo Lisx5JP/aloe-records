@@ -10,13 +10,9 @@ Aloe-008 | Yan Jun / Ryu Hankil - *[all words return 翱卧瑞吞](https://aloe
 
 **next event:**
 
-on-site #37 | Li Qing + Tetuzi Akiyama, Yan Jun + Toshimaru Nakamura
+on-site #39 | John Wilton, Sun Yizhou, Yan Jun + Jonas Vos
 
-on-site #38 | Li Weisi, Tetuzi Akiyama + Toshimaru Nakamura
-
-![](/images/uploads/on-site-37.jpeg)
-
-![](/images/uploads/on-site-38.jpeg)
+![](/images/uploads/on-site-39.jpeg)
 
 - - -
 
