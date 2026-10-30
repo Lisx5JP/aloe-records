@@ -1,7 +1,7 @@
 ---
 title: " Aloe on-site 39"
 slug: "061126"
-date: 2026-10-31
+date: 2026-10-30
 series: on-site
 description: John Wilton, Sun Yizhou, Yan Jun + Jonas Vos
 ---
