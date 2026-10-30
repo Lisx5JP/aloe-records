@@ -7,7 +7,7 @@ description: John Wilton, Sun Yizhou, Yan Jun + Jonas Vos
 ---
 ![](/images/uploads/on-site-39.jpeg)
 
-**7:30 PM, October 7, 2026**
+**7:30 PM, November 6, 2026**
 
 **John Wilton, Sun Yizhou, Yan Jun + Jonas Vos**
 
