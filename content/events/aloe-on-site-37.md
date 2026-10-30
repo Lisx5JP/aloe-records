@@ -1,7 +1,7 @@
 ---
 title: Aloe on-site 37
 slug: "061026"
-date: 2026-09-28
+date: 2026-10-06
 series: on-site
 description: Li Qing + Tetuzi Akiyama, Yan Jun + Toshimaru Nakamura
 ---
