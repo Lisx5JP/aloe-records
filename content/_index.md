@@ -1,10 +1,10 @@
 ## Aloe News
 
-**releases now:** 
+**releases soon:** 
 
-Aloe-007 | Li Song / Luciano Maggiore - *[toppe bianche 白色补丁](https://aloerecords.bandcamp.com/album/toppe-bianche)*
+Alone-014 | Hunter Brown - D2D_1
 
-Aloe-008 | Yan Jun / Ryu Hankil - *[all words return 翱卧瑞吞](https://aloerecords.bandcamp.com/album/all-words-return)*
+Alou-001 | Manfred Werder - Untitled Album
 
 - - -
 
