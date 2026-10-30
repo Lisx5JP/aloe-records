@@ -1,7 +1,7 @@
 ---
 title: " Aloe on-site 38"
 slug: "071026"
-date: 2026-09-28
+date: 2026-10-07
 series: on-site
 description: Li Weisi, Tetuzi Akiyama + Toshimaru Nakamura
 ---
