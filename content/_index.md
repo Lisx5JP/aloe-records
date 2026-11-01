@@ -4,7 +4,7 @@
 
 Alone-014 | Hunter Brown - D2D_1
 
-Alou-001 | Manfred Werder - Untitled Album
+Alou-001 | Manfred Werder - \[ envelopes of world ages ] (2026- )
 
 - - -
 
