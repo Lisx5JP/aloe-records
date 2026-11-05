@@ -4,7 +4,7 @@
 
 Alone-014 | Hunter Brown - D2D_1
 
-Alou-001 | Manfred Werder - \[ envelopes of world ages ] (2026- )
+Aloú-001 | Manfred Werder - \[ envelopes of world ages ] (2026- )
 
 - - -
 
